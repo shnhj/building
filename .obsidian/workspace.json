@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "온톨로지 목록.md",
+                "file": "ontology/Dublin Core ontology.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "온톨로지 목록.md",
+                "file": "ontology/Dublin Core ontology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "온톨로지 목록.md",
+                "file": "ontology/Dublin Core ontology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "온톨로지 목록.md"
+                "file": "ontology/Dublin Core ontology.md"
               }
             }
           },
@@ -157,11 +157,11 @@
   "active": "2be3b8dc280d8eec",
   "lastOpenFiles": [
     "ontology/DUL ontology.md",
+    "ontology/Dublin Core ontology.md",
     "온톨로지 목록.md",
     "ontology/OWL-Time Ontology.md",
     "ontology/WGS84 Geo Positioning Ontology.md",
     "ontology/gbBuilding Information Ontology.md",
-    "ontology/Dublin Core ontology.md",
     "무제 파일 3.md",
     "ontology/Weather Ontology.md",
     "ontology/User Behavior and Building Process Information.md",
