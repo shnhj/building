@@ -138,9 +138,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b700dfa56321726e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "온톨로지 목록.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -206,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ontology/OWL-Time Ontology.md",
+                "file": "온톨로지 목록.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ontology/OWL-Time Ontology.md",
+                "file": "온톨로지 목록.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ontology/OWL-Time Ontology.md"
+                "file": "온톨로지 목록.md"
               }
             }
           },
@@ -275,8 +287,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b2d6894d524cf902",
+  "active": "b700dfa56321726e",
   "lastOpenFiles": [
+    "ontology/Dublin Core ontology.md",
+    "온톨로지 목록.md",
+    "ontology/OWL-Time Ontology.md",
     "무제 파일 3.md",
     "ontology/WGS84 Geo Positioning Ontology.md",
     "ontology/DUL ontology.md",
@@ -284,12 +299,10 @@
     "ontology/User Behavior and Building Process Information.md",
     "ontology/Semantic Sensor Network Ontology (SSN).md",
     "ontology/schema.org.md",
-    "ontology/OWL-Time Ontology.md",
     "ontology/Ontology of units of Measure (OM).md",
     "ontology/Mathematical Modelling Ontology.md",
     "ontology/gbBuilding Information Ontology.md",
     "ontology/Energy Resource Ontology.md",
-    "ontology/Dublin Core ontology.md",
     "무제 폴더",
     "ontology"
   ]
