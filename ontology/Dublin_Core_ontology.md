@@ -12,8 +12,8 @@ http://purl.org/dc/terms/
 
 ## Example of term
 
-- [identifier](../dc/dc_identifier.md)
-- [title](../dc/dc_title.md)
-- [description](../dc/dc_description.md)
-- [type](../dc/dc_type.md)
-- [Location](../dc/dc_Location.md)
+- identifier
+- title
+- description
+- type
+- Location
