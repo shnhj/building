@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ontology/Semantic_Sensor_Network_Ontology_ (SSN).md",
+                "file": "ontology/WGS84_Geo_Positioning_Ontology.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ontology/Semantic_Sensor_Network_Ontology_ (SSN).md",
+                "file": "ontology/WGS84_Geo_Positioning_Ontology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ontology/Semantic_Sensor_Network_Ontology_ (SSN).md",
+                "file": "ontology/WGS84_Geo_Positioning_Ontology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ontology/Semantic_Sensor_Network_Ontology_ (SSN).md"
+                "file": "ontology/WGS84_Geo_Positioning_Ontology.md"
               }
             }
           },
@@ -156,20 +156,20 @@
   },
   "active": "2be3b8dc280d8eec",
   "lastOpenFiles": [
+    "ontology/Weather_Ontology.md",
+    "ontology/User_Behavior_and_Building_Process_Information.md",
+    "ontology/Semantic_Sensor_Network_Ontology_ (SSN).md",
     "ontology/schema.org.md",
     "ontology/OWL-Time_Ontology.md",
     "ontology/Ontology_of_units_of_Measure_(OM).md",
-    "ontology/Semantic_Sensor_Network_Ontology_ (SSN).md",
-    "ontology/gbBuilding_Information_Ontology.md",
-    "온톨로지 목록.md",
-    "ontology/User_Behavior_and_Building_Process_Information.md",
-    "정리.md",
     "ontology/Mathematical_Modelling_Ontology.md",
+    "ontology/gbBuilding_Information_Ontology.md",
     "ontology/Energy_Resource_Ontology.md",
-    "ontology/WGS84_Geo_Positioning_Ontology.md",
-    "ontology/Weather_Ontology.md",
     "ontology/DUL_ontology.md",
     "ontology/Dublin_Core_ontology.md",
+    "온톨로지 목록.md",
+    "정리.md",
+    "ontology/WGS84_Geo_Positioning_Ontology.md",
     "무제 파일.md",
     "Ontology.md",
     "().md",
