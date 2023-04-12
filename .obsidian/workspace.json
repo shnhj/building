@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ontology/Dublin_Core_ontology.md",
+                "file": "DC/dc_identifier.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ontology/Dublin_Core_ontology.md",
+                "file": "DC/dc_identifier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ontology/Dublin_Core_ontology.md",
+                "file": "DC/dc_identifier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ontology/Dublin_Core_ontology.md"
+                "file": "DC/dc_identifier.md"
               }
             }
           },
@@ -156,15 +156,15 @@
   },
   "active": "2be3b8dc280d8eec",
   "lastOpenFiles": [
+    "ontology/DUL_ontology.md",
+    "ontology/Dublin_Core_ontology.md",
     "DC/dc_type.md",
     "DC/dc_title.md",
     "DC/dc_Location.md",
     "DC/dc_identifier.md",
     "DC/dc_description.md",
-    "ontology/Dublin_Core_ontology.md",
     "DC",
     "().md",
-    "ontology/DUL_ontology.md",
     "온톨로지 목록.md",
     "정리.md",
     "ontology/Semantic_Sensor_Network_Ontology_ (SSN).md",
