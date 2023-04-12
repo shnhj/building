@@ -1,0 +1,1 @@
+# gbBuilding Information Ontology

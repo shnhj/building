@@ -1,2 +1,2 @@
-## 
+# DUL ontology
  

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ontology/Dublin_Core_ontology.md",
+                "file": "정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,8 +48,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": " ",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ontology/Dublin_Core_ontology.md",
+                "file": "정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ontology/Dublin_Core_ontology.md",
+                "file": "정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ontology/Dublin_Core_ontology.md"
+                "file": "정리.md"
               }
             }
           },
@@ -156,25 +156,25 @@
   },
   "active": "2be3b8dc280d8eec",
   "lastOpenFiles": [
-    "무제 파일.md",
+    "온톨로지 목록.md",
+    "ontology/WGS84_Geo_Positioning_Ontology.md",
+    "ontology/Weather_Ontology.md",
+    "ontology/User_Behavior_and_Building_Process_Information.md",
+    "ontology/Semantic_Sensor_Network_Ontology_ (SSN).md",
+    "ontology/schema.org.md",
+    "ontology/OWL-Time_Ontology.md",
+    "ontology/Ontology_of_units_of_Measure_(OM).md",
+    "ontology/Mathematical_Modelling_Ontology.md",
+    "ontology/gbBuilding_Information_Ontology.md",
+    "ontology/Energy_Resource_Ontology.md",
+    "ontology/DUL_ontology.md",
     "ontology/Dublin_Core_ontology.md",
     "정리.md",
-    "ontology/DUL_ontology.md",
-    "온톨로지 목록.md",
-    "ontology/Energy Resource Ontology.md",
-    "ontology/Mathematical Modelling Ontology.md",
-    "ontology/Ontology_of_units_of_Measure_(OM).md",
-    "ontology/OWL-Time_Ontology.md",
+    "무제 파일.md",
     "Ontology.md",
     "().md",
     "OWL-Time.md",
-    "ontology/Semantic Sensor Network Ontology (SSN).md",
-    "ontology/User Behavior and Building Process Information.md",
-    "ontology/gbBuilding Information Ontology.md",
-    "ontology/WGS84 Geo Positioning Ontology.md",
     "무제 파일 3.md",
-    "ontology/Weather Ontology.md",
-    "ontology/schema.org.md",
     "무제 폴더",
     "ontology"
   ]
