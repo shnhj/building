@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "113a311a9f3f70a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 파일.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dc/dc_description.md",
+                "file": "무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dc/dc_description.md",
+                "file": "무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dc/dc_description.md"
+                "file": "무제 파일.md"
               }
             }
           },
@@ -156,13 +169,15 @@
   },
   "active": "0297bef50f56ea98",
   "lastOpenFiles": [
+    "dc2",
+    "dc/dc_description.md",
+    "무제 파일.md",
     "dc",
     "ontology/Dublin_Core_ontology.md",
     "ontology/DUL_ontology.md",
     "dc/dc_identifier.md",
     "dc/dc_Location.md",
     "dc/dc_type.md",
-    "dc/dc_description.md",
     "dc/dc_title.md",
     "ontology/User_Behavior_and_Building_Process_Information.md",
     "ontology/Semantic_Sensor_Network_Ontology_ (SSN).md",
@@ -178,7 +193,6 @@
     "DC2",
     "().md",
     "정리.md",
-    "무제 파일.md",
     "Ontology.md",
     "OWL-Time.md",
     "무제 파일 3.md",
