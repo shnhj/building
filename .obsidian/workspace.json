@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ontology/Dublin Core ontology.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5a37dc5a717fd921",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "정리.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,22 +154,25 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "5a37dc5a717fd921",
+  "active": "2be3b8dc280d8eec",
   "lastOpenFiles": [
-    "ontology/gbBuilding Information Ontology.md",
+    "Ontology.md",
     "정리.md",
+    "ontology/Ontology_of_units_of_Measure_(OM).md",
+    "ontology/OWL-Time_Ontology.md",
+    "().md",
     "온톨로지 목록.md",
+    "OWL-Time.md",
     "ontology/Dublin Core ontology.md",
-    "ontology/DUL ontology.md",
     "ontology/Energy Resource Ontology.md",
-    "ontology/OWL-Time Ontology.md",
+    "ontology/Semantic Sensor Network Ontology (SSN).md",
+    "ontology/User Behavior and Building Process Information.md",
+    "ontology/gbBuilding Information Ontology.md",
+    "ontology/DUL ontology.md",
     "ontology/WGS84 Geo Positioning Ontology.md",
     "무제 파일 3.md",
     "ontology/Weather Ontology.md",
-    "ontology/User Behavior and Building Process Information.md",
-    "ontology/Semantic Sensor Network Ontology (SSN).md",
     "ontology/schema.org.md",
-    "ontology/Ontology of units of Measure (OM).md",
     "ontology/Mathematical Modelling Ontology.md",
     "무제 폴더",
     "ontology"
