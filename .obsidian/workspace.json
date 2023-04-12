@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "온톨로지 목록.md",
+                "file": "DC/dc_Location.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "온톨로지 목록.md",
+                "file": "DC/dc_Location.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "온톨로지 목록.md",
+                "file": "DC/dc_Location.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "온톨로지 목록.md"
+                "file": "DC/dc_Location.md"
               }
             }
           },
@@ -157,10 +157,10 @@
   "active": "2be3b8dc280d8eec",
   "lastOpenFiles": [
     "ontology/Dublin_Core_ontology.md",
-    "ontology/DUL_ontology.md",
-    "ontology/WGS84_Geo_Positioning_Ontology.md",
-    "온톨로지 목록.md",
-    "ontology/Weather_Ontology.md",
+    "DC/dc_type.md",
+    "DC/dc_description.md",
+    "DC/dc_title.md",
+    "DC/dc_identifier.md",
     "ontology/User_Behavior_and_Building_Process_Information.md",
     "ontology/Semantic_Sensor_Network_Ontology_ (SSN).md",
     "ontology/schema.org.md",
@@ -168,12 +168,12 @@
     "ontology/Ontology_of_units_of_Measure_(OM).md",
     "ontology/Mathematical_Modelling_Ontology.md",
     "ontology/gbBuilding_Information_Ontology.md",
+    "ontology/DUL_ontology.md",
+    "온톨로지 목록.md",
+    "ontology/WGS84_Geo_Positioning_Ontology.md",
+    "ontology/Weather_Ontology.md",
     "ontology/Energy_Resource_Ontology.md",
-    "DC/dc_identifier.md",
-    "DC/dc_type.md",
-    "DC/dc_title.md",
     "DC/dc_Location.md",
-    "DC/dc_description.md",
     "DC",
     "().md",
     "정리.md",
