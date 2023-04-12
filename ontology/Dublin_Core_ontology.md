@@ -14,6 +14,6 @@ http://purl.org/dc/terms/
 
 - [identifier](DC/dc_identifier.md)
 - [title](DC/dc_title.md)
-- [description](DC/dc_description.md)
+- [description](../DC/dc_description.md)
 - [type](DC/dc_type.md)
 - [Location](DC/dc_Location.md)
