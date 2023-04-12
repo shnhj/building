@@ -8,31 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2be3b8dc280d8eec",
+            "id": "b474e8153d548d92",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dc/dc_description.md",
+                "file": "온톨로지 목록.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "113a311a9f3f70a0",
+            "id": "77f5c87a6ca7595e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ontology/WGS84_Geo_Positioning_Ontology.md",
+                "file": "무제 파일 3.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ontology/WGS84_Geo_Positioning_Ontology.md",
+                "file": "온톨로지 목록.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ontology/WGS84_Geo_Positioning_Ontology.md",
+                "file": "온톨로지 목록.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ontology/WGS84_Geo_Positioning_Ontology.md"
+                "file": "온톨로지 목록.md"
               }
             }
           },
@@ -167,8 +166,24 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "113a311a9f3f70a0",
+  "active": "0297bef50f56ea98",
   "lastOpenFiles": [
+    "무제 파일 3.md",
+    "BOT.md",
+    "온톨로지 목록.md",
+    "무제 파일 8.md",
+    "무제 파일 7.md",
+    "무제 파일 6.md",
+    "무제 파일 5.md",
+    "무제 파일 4.md",
+    "ontology/WGS84_Geo_Positioning_Ontology.md",
+    "삭제파일/dc/dc_description.md",
+    "삭제파일/정리.md",
+    "무제 파일 9.md",
+    "무제 파일 1.md",
+    "무제 파일.md",
+    "무제 파일 11.md",
+    "무제 파일 10.md",
     "ontology/Weather_Ontology.md",
     "ontology/User_Behavior_and_Building_Process_Information.md",
     "ontology/Semantic_Sensor_Network_Ontology_ (SSN).md",
@@ -179,25 +194,11 @@
     "ontology/gbBuilding_Information_Ontology.md",
     "ontology/Energy_Resource_Ontology.md",
     "ontology/DUL_ontology.md",
-    "ontology/Dublin_Core_ontology.md",
-    "ontology/WGS84_Geo_Positioning_Ontology.md",
-    "삭제파일/온톨로지 목록.md",
-    "dc/dc_description.md",
-    "삭제파일/정리.md",
     "삭제파일",
-    "dc/dc_identifier.md",
-    "무제 파일.md",
-    "dc",
+    "삭제파일/dc",
     "dc2",
-    "dc",
-    "dc/dc_Location.md",
-    "dc/dc_type.md",
-    "dc/dc_title.md",
+    "삭제파일/dc",
     "DC2",
-    "().md",
-    "Ontology.md",
-    "OWL-Time.md",
-    "무제 파일 3.md",
     "ontology"
   ]
 }
