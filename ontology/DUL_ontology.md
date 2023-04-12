@@ -5,7 +5,7 @@
 ---
 ## Namespace
 
-http://www.ontologydesignpatterns.org/ont/dul/DUL.owl
+http://purl.org/dc/terms/
 
 ---
 
