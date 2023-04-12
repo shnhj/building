@@ -1,6 +1,6 @@
 # Ontology of units of Measure (OM)
 
-[](ontology/Semantic_Sensor_Network_Ontology_ (SSN).md)
+
 
 ---
 ## Namespace

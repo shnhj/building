@@ -1,6 +1,6 @@
 # OWL-Tim _Ontology
 
-[](ontology/Semantic_Sensor_Network_Ontology_ (SSN).md)
+
 
 ---
 ## Namespace
