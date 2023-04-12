@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DC/dc_Location.md",
+                "file": "dc/dc_identifier.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DC/dc_Location.md",
+                "file": "dc/dc_identifier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DC/dc_Location.md",
+                "file": "dc/dc_identifier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DC/dc_Location.md"
+                "file": "dc/dc_identifier.md"
               }
             }
           },
@@ -157,10 +157,11 @@
   "active": "2be3b8dc280d8eec",
   "lastOpenFiles": [
     "ontology/Dublin_Core_ontology.md",
-    "DC/dc_type.md",
-    "DC/dc_description.md",
-    "DC/dc_title.md",
-    "DC/dc_identifier.md",
+    "dc/dc_Location.md",
+    "dc/dc_type.md",
+    "dc/dc_description.md",
+    "dc/dc_title.md",
+    "dc/dc_identifier.md",
     "ontology/User_Behavior_and_Building_Process_Information.md",
     "ontology/Semantic_Sensor_Network_Ontology_ (SSN).md",
     "ontology/schema.org.md",
@@ -173,8 +174,7 @@
     "ontology/WGS84_Geo_Positioning_Ontology.md",
     "ontology/Weather_Ontology.md",
     "ontology/Energy_Resource_Ontology.md",
-    "DC/dc_Location.md",
-    "DC",
+    "dc",
     "().md",
     "정리.md",
     "무제 파일.md",
