@@ -1,7 +1,7 @@
 The DUL (DOLCE+DnS Ultralite) ontology includes descriptions and situations ontology; the purpose of its reuse is to provide the related upper-level concepts , including the class PhysicalObject, which epresents any object that has a space region, and the object property 
 hasLocation, which describes the spatial location of any entities. 
 
-The data properties identifier and title for distinguishing each entity are reused from the widely-used Dublin Core Ontology , which also provides another concept: Location. 
+The data properties identifier and title for distinguishing each entity are reused from the widely-used Dublin Core Ontology , which also provides another concept: Location.  
 
 To describe the location, a geographic coordinate point and/or a postal address can be used, whose vocabularies are, respectively, provided by the well-known WGS84 Geo Positioning Ontology and the website schema.org. 
 
