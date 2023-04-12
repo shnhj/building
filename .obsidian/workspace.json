@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dc/dc_description.md",
+                "file": "dc2/dc_description.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,15 +170,15 @@
   "active": "0297bef50f56ea98",
   "lastOpenFiles": [
     "dc2",
-    "dc/dc_description.md",
+    "dc2/dc_description.md",
     "무제 파일.md",
     "dc",
     "ontology/Dublin_Core_ontology.md",
     "ontology/DUL_ontology.md",
-    "dc/dc_identifier.md",
-    "dc/dc_Location.md",
+    "dc2/dc_identifier.md",
+    "dc2/dc_Location.md",
     "dc2/dc_type.md",
-    "dc/dc_title.md",
+    "dc2/dc_title.md",
     "ontology/User_Behavior_and_Building_Process_Information.md",
     "ontology/Semantic_Sensor_Network_Ontology_ (SSN).md",
     "ontology/schema.org.md",
