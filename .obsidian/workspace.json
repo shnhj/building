@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dc2/dc_description.md",
+                "file": "dc/dc_description.md",
                 "mode": "source",
                 "source": false
               }
@@ -171,7 +171,7 @@
   "lastOpenFiles": [
     "dc",
     "dc2",
-    "dc2/dc_description.md",
+    "dc/dc_description.md",
     "무제 파일.md",
     "dc",
     "ontology/Dublin_Core_ontology.md",
