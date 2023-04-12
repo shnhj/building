@@ -11,12 +11,13 @@ https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/building/1_10/gbBuild
 
 ## Example of term
 
-- Building
-- Building Element
-- Zone
-- containsArea
-- Area
-- containsVolume
-- Volume
-- BuildingStorey
-- Weather
+- Enhancing energy management at district and building levels via an EM-KPI ontology
+	- Building
+	- Building Element
+	- Zone
+	- containsArea
+	- Area
+	- containsVolume
+	- Volume
+	- BuildingStorey
+	- Weather

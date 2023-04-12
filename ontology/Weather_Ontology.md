@@ -11,7 +11,8 @@ https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/WeatherOntology.owl
 
 ## Example of term
 
-- WeatherCondition
-- WeatherPhenomenon
-- Humidity
-- SolarIrradiance
+- Enhancing energy management at district and building levels via an EM-KPI ontology
+	- WeatherCondition
+	- WeatherPhenomenon
+	- Humidity
+	- SolarIrradiance

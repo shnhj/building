@@ -11,11 +11,12 @@ https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntolog
 
 ## Example of term
 
-- EnergyFacility
-- Equipment
-- Appliance
-- consumesEnergy
-- producesEnergy
-- EnergySupply
-- EnergyDemand
-- EnergyType
+- Enhancing energy management at district and building levels via an EM-KPI ontology
+	- EnergyFacility
+	- Equipment
+	- Appliance
+	- consumesEnergy
+	- producesEnergy
+	- EnergySupply
+	- EnergyDemand
+	- EnergyType

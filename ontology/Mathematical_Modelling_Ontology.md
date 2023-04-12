@@ -13,7 +13,8 @@ https://bioportal.bioontology.org/ontologies/MAMO/?p=classes&conceptid=http%3A%2
 
 ## Example of term
 
-- Mathematical_model
-- Variable
-- Independent_variable
-- Dependent_variable
+- Enhancing energy management at district and building levels via an EM-KPI ontology
+	- Mathematical_model
+	- Variable
+	- Independent_variable
+	- Dependent_variable

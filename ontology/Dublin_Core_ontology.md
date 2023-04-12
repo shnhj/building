@@ -12,8 +12,9 @@ http://purl.org/dc/terms/
 
 ## Example of term
 
-- identifier
-- title
-- description
-- type
-- Location
+- Enhancing energy management at district and building levels via an EM-KPI ontology
+	- identifier
+	- title
+	- description
+	- type
+	- Location

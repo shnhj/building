@@ -11,5 +11,6 @@ http://schema.org/
 
 ## Example of term
 
-- Event
-- Postal Address
+- Enhancing energy management at district and building levels via an EM-KPI ontology
+	- Event
+	- Postal Address

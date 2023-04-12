@@ -13,12 +13,13 @@ http://purl.oclc.org/NET/ssnx/ssn
 
 ## Example of term
 
-- Observation
-- ObservationValue
-- observedProperty
-- Property
-- observationSamplingTime
-- observationResult
+- Enhancing energy management at district and building levels via an EM-KPI ontology
+	- Observation
+	- ObservationValue
+	- observedProperty
+	- Property
+	- observationSamplingTime
+	- observationResult
 
 
 

@@ -11,7 +11,8 @@ http://www.w3.org/2003/01/geo/wgs84_pos#
 
 ## Example of term
 
-- Point
-- lat
-- long
-- alt
+- Enhancing energy management at district and building levels via an EM-KPI ontology
+	- Point
+	- lat
+	- long
+	- alt

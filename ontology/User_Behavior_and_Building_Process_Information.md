@@ -11,5 +11,6 @@ https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/ProcessOntology.owl
 
 ## Example of term
 
-- OccupancyParameter
-- hasInfluenceOn
+- Enhancing energy management at district and building levels via an EM-KPI ontology
+	- OccupancyParameter
+	- hasInfluenceOn

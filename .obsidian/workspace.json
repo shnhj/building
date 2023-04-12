@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ontology/Dublin_Core_ontology.md",
+                "file": "ontology/WGS84_Geo_Positioning_Ontology.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ontology/Dublin_Core_ontology.md",
+                "file": "ontology/WGS84_Geo_Positioning_Ontology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ontology/Dublin_Core_ontology.md",
+                "file": "ontology/WGS84_Geo_Positioning_Ontology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ontology/Dublin_Core_ontology.md"
+                "file": "ontology/WGS84_Geo_Positioning_Ontology.md"
               }
             }
           },
@@ -169,20 +169,7 @@
   },
   "active": "113a311a9f3f70a0",
   "lastOpenFiles": [
-    "dc/dc_description.md",
-    "삭제파일/정리.md",
-    "삭제파일/온톨로지 목록.md",
-    "ontology/Dublin_Core_ontology.md",
-    "삭제파일",
-    "dc/dc_identifier.md",
-    "무제 파일.md",
-    "dc",
-    "dc2",
-    "dc",
-    "ontology/DUL_ontology.md",
-    "dc/dc_Location.md",
-    "dc/dc_type.md",
-    "dc/dc_title.md",
+    "ontology/Weather_Ontology.md",
     "ontology/User_Behavior_and_Building_Process_Information.md",
     "ontology/Semantic_Sensor_Network_Ontology_ (SSN).md",
     "ontology/schema.org.md",
@@ -190,9 +177,22 @@
     "ontology/Ontology_of_units_of_Measure_(OM).md",
     "ontology/Mathematical_Modelling_Ontology.md",
     "ontology/gbBuilding_Information_Ontology.md",
-    "ontology/WGS84_Geo_Positioning_Ontology.md",
-    "ontology/Weather_Ontology.md",
     "ontology/Energy_Resource_Ontology.md",
+    "ontology/DUL_ontology.md",
+    "ontology/Dublin_Core_ontology.md",
+    "삭제파일/온톨로지 목록.md",
+    "dc/dc_description.md",
+    "삭제파일/정리.md",
+    "삭제파일",
+    "dc/dc_identifier.md",
+    "무제 파일.md",
+    "dc",
+    "dc2",
+    "dc",
+    "dc/dc_Location.md",
+    "dc/dc_type.md",
+    "dc/dc_title.md",
+    "ontology/WGS84_Geo_Positioning_Ontology.md",
     "DC2",
     "().md",
     "Ontology.md",

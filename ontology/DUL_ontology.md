@@ -11,6 +11,7 @@ http://www.ontologydesignpatterns.org/ont/dul/DUL.owl
 
 ## Example of term
 
-- PhysicalObject
-- hasLocation
-- isLocationOf
+- Enhancing energy management at district and building levels via an EM-KPI ontology
+	- PhysicalObject
+	- hasLocation
+	- isLocationOf
