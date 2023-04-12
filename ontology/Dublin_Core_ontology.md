@@ -12,7 +12,7 @@ http://purl.org/dc/terms/
 
 ## Example of term
 
-- [identifier](../dc_identifier.md)
+- [identifier](dc_identifier.md)
 - [title](dc_title.md)
 - [description](dc_description.md)
 - [type](dc_type.md)

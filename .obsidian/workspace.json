@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ontology/Dublin_Core_ontology.md",
+                "file": "dc/dc_description.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ontology/Dublin_Core_ontology.md",
+                "file": "dc/dc_description.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ontology/Dublin_Core_ontology.md",
+                "file": "dc/dc_description.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ontology/Dublin_Core_ontology.md"
+                "file": "dc/dc_description.md"
               }
             }
           },
@@ -154,10 +154,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "2be3b8dc280d8eec",
+  "active": "0297bef50f56ea98",
   "lastOpenFiles": [
-    "ontology/DUL_ontology.md",
+    "dc",
     "ontology/Dublin_Core_ontology.md",
+    "ontology/DUL_ontology.md",
     "dc/dc_identifier.md",
     "dc/dc_Location.md",
     "dc/dc_type.md",
@@ -174,7 +175,7 @@
     "ontology/WGS84_Geo_Positioning_Ontology.md",
     "ontology/Weather_Ontology.md",
     "ontology/Energy_Resource_Ontology.md",
-    "dc",
+    "DC2",
     "().md",
     "정리.md",
     "무제 파일.md",
