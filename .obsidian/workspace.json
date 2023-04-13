@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ontology/BEMS.md",
+                "file": "ontology/DELTA.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ontology/BEMS.md",
+                "file": "ontology/DELTA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ontology/BEMS.md",
+                "file": "ontology/DELTA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ontology/BEMS.md"
+                "file": "ontology/DELTA.md"
               }
             }
           },
@@ -156,6 +156,7 @@
   },
   "active": "f0415c2420118fc1",
   "lastOpenFiles": [
+    "ontology/BEMS.md",
     "ontology/BONSAI.md",
     "ontology/Digitalbuildings.md",
     "ontology/ThinkHome.md",
@@ -178,7 +179,6 @@
     "ontology/DELTA.md",
     "ontology/Brick.md",
     "ontology/BOT.md",
-    "ontology/BEMS.md",
     "온톨로지 목록.md",
     "ontology/Dublin_Core_ontology.md",
     "무제 파일 3.md",
