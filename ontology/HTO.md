@@ -12,3 +12,5 @@
 | Language; Syntax             |  RDF; Turtle   |
 
 출처 :  A semantic ontology for representing and quantifying energy flexibility of buildings
+
+참고 : Charpenay V, Käbisch S, Anicic D, Kosch H. An ontology design pattern for IoT device tagging systems. 5th International Conference on the. Internet of Things (IOT) 2015:138–45. https://doi.org/10.1109/IOT.2015.7356558.
