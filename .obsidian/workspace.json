@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ontology/Mirabel.md",
+                "file": "ontology/Digitalbuildings.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ontology/Mirabel.md",
+                "file": "ontology/Digitalbuildings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ontology/Mirabel.md",
+                "file": "ontology/Digitalbuildings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ontology/Mirabel.md"
+                "file": "ontology/Digitalbuildings.md"
               }
             }
           },
@@ -157,6 +157,7 @@
   },
   "active": "f0415c2420118fc1",
   "lastOpenFiles": [
+    "ontology/Mirabel.md",
     "ontology/BONSAI.md",
     "ontology/ThinkHome.md",
     "ontology/SAREF.md",
@@ -181,7 +182,6 @@
     "ontology/Ontology_of_units_of_Measure_(OM).md",
     "ontology/OEO.md",
     "ontology/NewOSEIM.md",
-    "ontology/Mirabel.md",
     "ontology/ifcOWL.md",
     "무제 폴더",
     "삭제파일",
