@@ -1,6 +1,6 @@
 # Brick
 
-&#45; 
+&#45; 건물의 물리적 및 가상 상태간의 관계를 설명하기 위한 온톨로지
 
 | Name         | Brick  |
 | ------------ | --- |
@@ -12,3 +12,5 @@
 | Language; Syntax             | OWL; Turtle     |
 
 출처 :  A semantic ontology for representing and quantifying energy flexibility of buildings
+
+참고 : Balaji B, Bhattacharya A, Fierro G, Gao J, Gluck J, Hong D, et al. Brick : metadata schema for portable smart building applications. Appl Energy 2018;226:1273–92. doi:10.1016/j.apenergy.2018.02.091.

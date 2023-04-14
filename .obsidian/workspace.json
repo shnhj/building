@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ontology/BOT.md",
+                "file": "ontology/Brick.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ontology/BOT.md",
+                "file": "ontology/Brick.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ontology/BOT.md",
+                "file": "ontology/Brick.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ontology/BOT.md"
+                "file": "ontology/Brick.md"
               }
             }
           },
@@ -157,13 +157,13 @@
   },
   "active": "f0415c2420118fc1",
   "lastOpenFiles": [
-    "ontology/Brick.md",
     "ontology/BOT.md",
-    "ontology/Digitalbuildings.md",
     "ontology/BONSAI.md",
     "ontology/BEMS.md",
-    "ontology/ifcOWL.md",
+    "ontology/Brick.md",
     "ontology/HTO.md",
+    "ontology/Digitalbuildings.md",
+    "ontology/ifcOWL.md",
     "ontology/gbBuilding_Information_Ontology.md",
     "ontology/DUL_ontology.md",
     "ontology/Dublin_Core_ontology.md",
