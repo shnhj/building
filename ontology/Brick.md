@@ -13,4 +13,4 @@
 
 출처 :  A semantic ontology for representing and quantifying energy flexibility of buildings
 
-참고 : Balaji B, Bhattacharya A, Fierro G, Gao J, Gluck J, Hong D, et al. Brick : metadata schema for portable smart building applications. Appl Energy 2018;226:1273–92. doi:10.1016/j.apenergy.2018.02.091.
+참고 : Balaji B, Bhattacharya A, Fierro G, Gao J, Gluck J, Hong D, et al. Brick : metadata schema for portable smart building applications. Appl Energy 2018;226:1273–92. doi:10.1016/j.apenergy.2018.02.richdata091.
