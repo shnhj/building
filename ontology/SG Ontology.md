@@ -1,3 +1,12 @@
 # SG Ontology
 
+| Name             | SARGON                                                                                                                                                                                                                                                       |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Domain           | Building-to-Grid Integration                                                                                                                                                                                                                                 |
+| subdomain        | Prosumer Coordination                                                                                                                                                                                                                                        |
+| goal             | Enable the autonomous integration and real-time management of distributed and heterogeneous sources in electric power grid                                                                                                                                   |
+| scope            | grid                                                                                                                                                                                                                                                         |
+| applications     | Determine the most economical, reliable and environmentally friendly energy producer in a ceratin city; List feasible dates and times, which would be cost effective to operate a washing machine in certain premises by comparing past consumption patterns |
+| Language; Syntax | RDF;Turtle                                                                                                                                                                                                                                                   |
+
 출처 :  A semantic ontology for representing and quantifying energy flexibility of buildings
