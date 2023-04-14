@@ -1,6 +1,6 @@
 # Open Energy Ontology(OEO)
 
-&#45;  
+&#45;  에너지 시스템 분석 도메인을 정보 교환하거나 협력하기 위한 도메인 온톨로지
 
 | Name         |  OEO   |
 | ------------ | --- |
@@ -12,3 +12,5 @@
 | Language; Syntax             |  RDF; Turtle   |
 
 출처 :  A semantic ontology for representing and quantifying energy flexibility of buildings
+
+참고 : ] Booshehri M, Emele L, Flügel S, Förster H, Frey J, Frey U, et al. Introducing the open energy ontology: enhancing data interpretation and interfacing in energy systems analysis. Energy AI 2021;5:100074. doi:10.1016/j.egyai.2021.100074
