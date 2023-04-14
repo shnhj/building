@@ -1,12 +1,12 @@
 # DogOnt
 
-| Name         |     |
-| ------------ | --- |
-| Domain       |     |
-| subdomain    |     |
-| goal         |     |
-| scope        |     |
-| applications |     |
-| Language; Syntax             |     |
+| Name             | DogOnt                                                                                                                                                                                                                                                                                                                                                                                         |
+| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Domain           | Smart Building                                                                                                                                                                                                                                                                                                                                                                                 |
+| subdomain        | Device Modeling                                                                                                                                                                                                                                                                                                                                                                                |
+| goal             | Offers a uniform, extensible model for all devices being part of a “local” Internet of Things inside a smart environment.                                                                                                                                                                                                                                                                      |
+| scope            | device-building                                                                                                                                                                                                                                                                                                                                                                                               |
+| applications     | Provides IoT device description and modeling for home energy management: Where a (smart) device is located; The set of capabilities of a device; The technology-specific features needed to interface the device; The possible configurations that the device can assume (states); How the smart environment is composed; What kind of architectural elements and furniture are placed within. |
+| Language; Syntax | RDF;Turtle                                                                                                                                                                                                                                                                                                                                                                                     |
 
 출처 :  A semantic ontology for representing and quantifying energy flexibility of buildings
