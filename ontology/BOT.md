@@ -1,5 +1,7 @@
 # BOT
 
+핵심 Topology 개변을 설명하는 최소 온톨로지
+
 | Name         |     |
 | ------------ | --- |
 | Domain       | Assets and Applications    |
@@ -8,5 +10,6 @@
 | scope        | building    |
 | applications | Create BOT datasets from IFC documents; Support BIM software; (3) Support building visualizing and querying    |
 | Language; Syntax             |  OWL; Turtle   |
+
 
 출처 :  A semantic ontology for representing and quantifying energy flexibility of buildings
