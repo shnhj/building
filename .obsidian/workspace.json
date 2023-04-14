@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 205.5
+    "width": 200
   },
   "right": {
     "id": "87f839a28f0f07d7",
@@ -158,8 +158,8 @@
   "active": "f0415c2420118fc1",
   "lastOpenFiles": [
     "ontology/Brick.md",
-    "ontology/Digitalbuildings.md",
     "ontology/BOT.md",
+    "ontology/Digitalbuildings.md",
     "ontology/BONSAI.md",
     "ontology/BEMS.md",
     "ontology/ifcOWL.md",

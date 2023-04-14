@@ -1,5 +1,7 @@
 # Brick
 
+&#45; 
+
 | Name         | Brick  |
 | ------------ | --- |
 | Domain       | Assets and Applications      |
