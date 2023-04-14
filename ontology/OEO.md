@@ -1,4 +1,6 @@
-# OEO
+# Open Energy Ontology(OEO)
+
+&#45;  
 
 | Name         |  OEO   |
 | ------------ | --- |

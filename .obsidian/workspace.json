@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ontology/SimModel.md",
+                "file": "ontology/OEO.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ontology/SimModel.md",
+                "file": "ontology/OEO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ontology/SimModel.md",
+                "file": "ontology/OEO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ontology/SimModel.md"
+                "file": "ontology/OEO.md"
               }
             }
           },
@@ -157,8 +157,9 @@
   },
   "active": "f0415c2420118fc1",
   "lastOpenFiles": [
-    "ontology/ifcOWL.md",
     "ontology/SimModel.md",
+    "ontology/OEO.md",
+    "ontology/ifcOWL.md",
     "ontology/BOT.md",
     "ontology/REC4.md",
     "ontology/HTO.md",
@@ -182,7 +183,6 @@
     "ontology/SG Ontology.md",
     "ontology/Semantic_Sensor_Network_Ontology_ (SSN).md",
     "ontology/schema.org.md",
-    "ontology/SARGON.md",
     "무제 폴더",
     "삭제파일",
     "삭제파일/dc",
