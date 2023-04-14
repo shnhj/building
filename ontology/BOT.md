@@ -3,7 +3,7 @@
 &#45; 건물의 핵심 Topology 개념을 설명하는 최소 온톨로지<br/>
 &#45; 건물의 sub-components 간의 관계를 정의하기 위한 기준선을 나타내며 다른 온톨로지 도메인과 함께 사용하는 것을 제안함
 
-| Name         |     |
+| Name         |  BOT   |
 | ------------ | --- |
 | Domain       | Assets and Applications    |
 | subdomain    |  Building Topology   |
