@@ -157,6 +157,8 @@
   },
   "active": "f0415c2420118fc1",
   "lastOpenFiles": [
+    "ontology/Brick.md",
+    "ontology/BOT.md",
     "ontology/ifcOWL.md",
     "ontology/HTO.md",
     "ontology/gbBuilding_Information_Ontology.md",
@@ -165,8 +167,6 @@
     "ontology/Digitalbuildings.md",
     "ontology/DogOnt.md",
     "ontology/DELTA.md",
-    "ontology/Brick.md",
-    "ontology/BOT.md",
     "ontology/BONSAI.md",
     "ontology/BEMS.md",
     "ontology/REC4.md",
