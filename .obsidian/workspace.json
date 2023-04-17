@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ontology/PowerOnt.md",
+                "file": "ontology/DogOnt.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ontology/PowerOnt.md",
+                "file": "ontology/DogOnt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ontology/PowerOnt.md",
+                "file": "ontology/DogOnt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ontology/PowerOnt.md"
+                "file": "ontology/DogOnt.md"
               }
             }
           },
@@ -157,8 +157,8 @@
   },
   "active": "f0415c2420118fc1",
   "lastOpenFiles": [
-    "ontology/DogOnt.md",
     "ontology/PowerOnt.md",
+    "ontology/DogOnt.md",
     "ontology/DELTA.md",
     "ontology/Brick.md",
     "ontology/BOT.md",
