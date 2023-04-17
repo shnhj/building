@@ -13,4 +13,4 @@
 
 출처 :  A semantic ontology for representing and quantifying energy flexibility of buildings
 
-참고 : ] Daniele L, den Hartog F, Roes J. In: Cuel R, Young R, editors. Created in close interaction with the industry: the smart appliances REFerence (SAREF) ontology. Cham: Springer International Publishing; 2015. p. 100–12. doi:10.1007/978-3-319-21545-7_9
+참고 : Daniele L, den Hartog F, Roes J. In: Cuel R, Young R, editors. Created in close interaction with the industry: the smart appliances REFerence (SAREF) ontology. Cham: Springer International Publishing; 2015. p. 100–12. doi:10.1007/978-3-319-21545-7_9
