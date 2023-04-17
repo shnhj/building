@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ontology/ThinkHome.md",
+                "file": "ontology/SAREF.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ontology/ThinkHome.md",
+                "file": "ontology/SAREF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ontology/ThinkHome.md",
+                "file": "ontology/SAREF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ontology/ThinkHome.md"
+                "file": "ontology/SAREF.md"
               }
             }
           },
@@ -157,8 +157,8 @@
   },
   "active": "f0415c2420118fc1",
   "lastOpenFiles": [
-    "ontology/PowerOnt.md",
     "ontology/ThinkHome.md",
+    "ontology/PowerOnt.md",
     "ontology/Semantic_Sensor_Network_Ontology_ (SSN).md",
     "ontology/SG Ontology.md",
     "ontology/SG-BEMS.md",
