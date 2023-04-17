@@ -12,3 +12,5 @@
 | Language; Syntax | RDF;Turtle                                                                                                                                                                                                                                                                                                                                                                                     |
 
 출처 :  A semantic ontology for representing and quantifying energy flexibility of buildings
+
+참고 : Bonino D, Corno F. DogOnt - Ontology Modeling for Intelligent Domotic Environments. Int. Semantic Web Conf., Springer 2008:790–803.
