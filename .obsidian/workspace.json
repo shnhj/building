@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ontology/WGS84_Geo_Positioning_Ontology.md",
+                "file": "ontology/OpenADR.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ontology/WGS84_Geo_Positioning_Ontology.md",
+                "file": "ontology/OpenADR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ontology/WGS84_Geo_Positioning_Ontology.md",
+                "file": "ontology/OpenADR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ontology/WGS84_Geo_Positioning_Ontology.md"
+                "file": "ontology/OpenADR.md"
               }
             }
           },
@@ -157,6 +157,7 @@
   },
   "active": "f0415c2420118fc1",
   "lastOpenFiles": [
+    "ontology/WGS84_Geo_Positioning_Ontology.md",
     "ontology/Weather_Ontology.md",
     "ontology/User_Behavior_and_Building_Process_Information.md",
     "ontology/ThinkHome.md",
@@ -182,7 +183,6 @@
     "ontology/gbBuilding_Information_Ontology.md",
     "ontology/Energy_Resource_Ontology.md",
     "ontology/DUL_ontology.md",
-    "ontology/Dublin_Core_ontology.md",
     "무제 폴더",
     "삭제파일",
     "삭제파일/dc",
