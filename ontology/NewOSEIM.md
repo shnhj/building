@@ -12,3 +12,5 @@
 | Language; Syntax | OWL; Turtle                                                                                                                                             |
 
 출처 :  A semantic ontology for representing and quantifying energy flexibility of buildings
+
+참고 : Saba D, Sahli Y, Hadidi A. An ontology based energy management for smart home. Sustain Comput Inform Syst 2021;31:100591. doi:10.1016/j.suscom.2021.100591
