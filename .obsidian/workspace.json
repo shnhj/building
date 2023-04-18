@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "온톨로지 목록.md",
+                "file": "ontology/BONSAI.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "온톨로지 목록.md",
+                "file": "ontology/BONSAI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "온톨로지 목록.md",
+                "file": "ontology/BONSAI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "온톨로지 목록.md"
+                "file": "ontology/BONSAI.md"
               }
             }
           },
@@ -157,8 +157,9 @@
   },
   "active": "f0415c2420118fc1",
   "lastOpenFiles": [
-    "ontology/OEO.md",
     "온톨로지 목록.md",
+    "ontology/SAREF.md",
+    "ontology/OEO.md",
     "ontology/HTO.md",
     "ontology/BOT.md",
     "ontology/Mirabel.md",
@@ -182,7 +183,6 @@
     "ontology/User_Behavior_and_Building_Process_Information.md",
     "ontology/ThinkHome.md",
     "ontology/schema.org.md",
-    "ontology/SAREF.md",
     "무제 폴더",
     "삭제파일",
     "삭제파일/dc",

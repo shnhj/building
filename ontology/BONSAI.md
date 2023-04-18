@@ -1,4 +1,4 @@
-# BONSAI
+# Building Operation and Maintenance System Artificial Intelligence (BONSAI)
 
 &#45; 스마트 빌딩에 주변 환경 인텔리전스를 통합하기 위한 온톨로지 <br/>
 &#45;  건물 서비스, 하드웨어 자원, 사용자, 문맥과 관련된 기계 판독 가능한 지식 표현 제공
