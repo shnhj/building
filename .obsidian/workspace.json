@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ontology/SSG.md",
+                "file": "ontology/Mirabel.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ontology/SSG.md",
+                "file": "ontology/Mirabel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ontology/SSG.md",
+                "file": "ontology/Mirabel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ontology/SSG.md"
+                "file": "ontology/Mirabel.md"
               }
             }
           },
@@ -157,6 +157,7 @@
   },
   "active": "f0415c2420118fc1",
   "lastOpenFiles": [
+    "ontology/SSG.md",
     "ontology/SG Ontology.md",
     "ontology/SG-BEMS.md",
     "ontology/SARGON.md",
@@ -170,7 +171,6 @@
     "ontology/User_Behavior_and_Building_Process_Information.md",
     "ontology/ThinkHome.md",
     "ontology/Semantic_Sensor_Network_Ontology_ (SSN).md",
-    "ontology/SSG.md",
     "ontology/SimModel.md",
     "ontology/schema.org.md",
     "ontology/SAREF.md",
