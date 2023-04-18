@@ -1,4 +1,4 @@
-# DELTA
+# DELTA(Demand Response Energy-efficient building Technology Application)
 
 &#45; [OpenADR](OpenADR.md) 온톨로지를 기반으로 DR집합체 및 노드를 지원하기 위해 OpenADR온톨로지를 확장하고 스마트 장치 정의 및 측정을 위해 [SAREF](SAREF.md)를 재사용하며 지리적 데이터를 정의하기 위해 GeoSPARQL온톨로지 재사용함
 

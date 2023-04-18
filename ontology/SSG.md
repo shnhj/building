@@ -1,4 +1,4 @@
-# SSG
+# SSG(Smart System ontology for the Grid)
 
 &#45; 분산 및 이질적인 원천의 자동 통합 및 실시간 관리를 가능하게 하는 prosumer 지향 온톨로지
 

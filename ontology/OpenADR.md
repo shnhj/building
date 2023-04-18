@@ -1,4 +1,4 @@
-# OpenADR
+# OpenADR(Open Automated Demand Response)
 
 &#45; OpenADR 2.0 표준에 시맨틱 enrichment를 추가하여, 서로 다른 수요 반응 이해관계자 및 시스템, DR&#42;통신, 데이터 유효성 검사 및 용어 재사용에 대한 시맨틱 상호 운용성 제공
 

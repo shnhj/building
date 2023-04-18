@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "온톨로지 목록.md",
+                "file": "ontology/SSG.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "온톨로지 목록.md",
+                "file": "ontology/SSG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "온톨로지 목록.md",
+                "file": "ontology/SSG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "온톨로지 목록.md"
+                "file": "ontology/SSG.md"
               }
             }
           },
@@ -157,19 +157,22 @@
   },
   "active": "f0415c2420118fc1",
   "lastOpenFiles": [
-    "ontology/BOT.md",
     "온톨로지 목록.md",
-    "ontology/BONSAI.md",
-    "ontology/SAREF.md",
-    "ontology/OEO.md",
     "ontology/HTO.md",
-    "ontology/Mirabel.md",
     "ontology/SG_BEMS.md",
     "ontology/SG_Ontology.md",
-    "ontology/SG-Ont.md",
+    "ontology/SARGON.md",
+    "ontology/OpenADR.md",
     "ontology/DELTA.md",
     "ontology/NewOSEIM.md",
     "ontology/PA_Ontology.md",
+    "ontology/BONSAI.md",
+    "ontology/SAREF.md",
+    "ontology/OEO.md",
+    "ontology/REC4.md",
+    "ontology/BOT.md",
+    "ontology/Mirabel.md",
+    "ontology/SG-Ont.md",
     "ontology/Digitalbuildings.md",
     "ontology/Semantic_Sensor_Network_Ontology_(SSN).md",
     "ontology/PowerOnt.md",
@@ -178,11 +181,8 @@
     "ontology/DUL_ontology.md",
     "ontology/DUL.md",
     "DUL.md",
-    "ontology/SARGON.md",
     "ontology/WGS84_Geo_Positioning_Ontology.md",
     "ontology/Weather_Ontology.md",
-    "ontology/User_Behavior_and_Building_Process_Information.md",
-    "ontology/ThinkHome.md",
     "무제 폴더",
     "삭제파일",
     "삭제파일/dc",
