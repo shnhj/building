@@ -1,4 +1,4 @@
-# PerformanceAssessment(PA) Ontology
+# PA(Product and Asset) Ontology
 
 &#45; 다양한 건물 데이터를 통합하여 구조화된 성능 모니터링 및 분석을 위한 시맨틱 접근 방식 제공
 

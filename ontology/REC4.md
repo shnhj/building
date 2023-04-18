@@ -1,4 +1,4 @@
-# RealEstateCore(REC4)
+# REC4(RealEstateCore)
 
 &#45; 부동산을 중점으로 공간 관계의 설명을 위해 BOT 개념을 확장하고 건물 자산에 태그를 지정하기 위해 기존 여러 온톨로지 병합
 

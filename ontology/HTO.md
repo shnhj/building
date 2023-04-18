@@ -1,4 +1,4 @@
-# Haystack Tagging Ontology(HTO)
+# HTO(Haystack Tagging Ontology)
 
 &#45; 건물 엔티티에 대한 도메인 어휘 및 표준화된 태그 이름 제공 
 

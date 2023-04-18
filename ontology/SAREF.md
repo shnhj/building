@@ -1,4 +1,4 @@
-# Smart Appliances REFerence(SAREF)
+# SAREF(Smart Appliances REFerence)
 
 &#45; 스마트 빌딩 응용 프로그램과 그들 간의 관계를 규정하는 도메인 온톨로지
 

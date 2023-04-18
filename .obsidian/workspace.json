@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ontology/SSG.md",
+                "file": "온톨로지 목록.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ontology/SSG.md",
+                "file": "온톨로지 목록.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ontology/SSG.md",
+                "file": "온톨로지 목록.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ontology/SSG.md"
+                "file": "온톨로지 목록.md"
               }
             }
           },
@@ -157,26 +157,26 @@
   },
   "active": "f0415c2420118fc1",
   "lastOpenFiles": [
+    "ontology/SSG.md",
     "온톨로지 목록.md",
-    "ontology/HTO.md",
-    "ontology/SG_BEMS.md",
     "ontology/SG_Ontology.md",
-    "ontology/SARGON.md",
     "ontology/OpenADR.md",
     "ontology/DELTA.md",
     "ontology/NewOSEIM.md",
     "ontology/PA_Ontology.md",
-    "ontology/BONSAI.md",
-    "ontology/SAREF.md",
-    "ontology/OEO.md",
-    "ontology/REC4.md",
+    "ontology/HTO.md",
     "ontology/BOT.md",
+    "ontology/REC4.md",
+    "ontology/OEO.md",
+    "ontology/SAREF.md",
+    "ontology/BONSAI.md",
+    "ontology/SG_BEMS.md",
+    "ontology/SARGON.md",
     "ontology/Mirabel.md",
     "ontology/SG-Ont.md",
     "ontology/Digitalbuildings.md",
     "ontology/Semantic_Sensor_Network_Ontology_(SSN).md",
     "ontology/PowerOnt.md",
-    "ontology/SSG.md",
     "ontology/SimModel.md",
     "ontology/DUL_ontology.md",
     "ontology/DUL.md",
