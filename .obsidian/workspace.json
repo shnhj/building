@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "building ontology.md",
+                "file": "ontology/WGS84_Geo_Positioning_Ontology.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "building ontology.md",
+                "file": "ontology/WGS84_Geo_Positioning_Ontology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "building ontology.md",
+                "file": "ontology/WGS84_Geo_Positioning_Ontology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "building ontology.md"
+                "file": "ontology/WGS84_Geo_Positioning_Ontology.md"
               }
             }
           },
