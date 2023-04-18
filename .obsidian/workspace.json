@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0e471203979f4559",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "온톨로지 목록.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,10 +168,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f0415c2420118fc1",
+  "active": "0e471203979f4559",
   "lastOpenFiles": [
-    "ontology/SSG.md",
+    "building ontology.md",
     "온톨로지 목록.md",
+    "무제 폴더",
+    "ontology/SSG.md",
     "ontology/SG_Ontology.md",
     "ontology/OpenADR.md",
     "ontology/DELTA.md",
@@ -182,8 +197,6 @@
     "ontology/DUL.md",
     "DUL.md",
     "ontology/WGS84_Geo_Positioning_Ontology.md",
-    "ontology/Weather_Ontology.md",
-    "무제 폴더",
     "삭제파일",
     "삭제파일/dc",
     "dc2",
