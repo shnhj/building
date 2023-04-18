@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ontology/Semantic_Sensor_Network_Ontology_(SSN).md",
+                "file": "ontology/BOT.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ontology/Semantic_Sensor_Network_Ontology_(SSN).md",
+                "file": "ontology/BOT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ontology/Semantic_Sensor_Network_Ontology_(SSN).md",
+                "file": "ontology/BOT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ontology/Semantic_Sensor_Network_Ontology_(SSN).md"
+                "file": "ontology/BOT.md"
               }
             }
           },
@@ -158,6 +158,7 @@
   "active": "f0415c2420118fc1",
   "lastOpenFiles": [
     "온톨로지 목록.md",
+    "ontology/Semantic_Sensor_Network_Ontology_(SSN).md",
     "ontology/PA_Ontology.md",
     "ontology/PowerOnt.md",
     "ontology/SSG.md",
@@ -173,7 +174,6 @@
     "ontology/Weather_Ontology.md",
     "ontology/User_Behavior_and_Building_Process_Information.md",
     "ontology/ThinkHome.md",
-    "ontology/Semantic_Sensor_Network_Ontology_(SSN).md",
     "ontology/schema.org.md",
     "ontology/SAREF.md",
     "ontology/REC4.md",
