@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "온톨로지 목록.md",
+                "file": "ontology/SG_BEMS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "온톨로지 목록.md",
+                "file": "ontology/SG_BEMS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "온톨로지 목록.md",
+                "file": "ontology/SG_BEMS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "온톨로지 목록.md"
+                "file": "ontology/SG_BEMS.md"
               }
             }
           },
@@ -157,9 +157,9 @@
   },
   "active": "f0415c2420118fc1",
   "lastOpenFiles": [
+    "온톨로지 목록.md",
     "ontology/SG_Ontology.md",
     "ontology/SG-Ont.md",
-    "온톨로지 목록.md",
     "ontology/DELTA.md",
     "ontology/NewOSEIM.md",
     "ontology/PA_Ontology.md",
