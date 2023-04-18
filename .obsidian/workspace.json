@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "온톨로지 목록.md",
+                "file": "building ontology.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "온톨로지 목록.md",
+                "file": "building ontology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "온톨로지 목록.md",
+                "file": "building ontology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "온톨로지 목록.md"
+                "file": "building ontology.md"
               }
             }
           },
@@ -168,10 +167,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0e471203979f4559",
+  "active": "f0415c2420118fc1",
   "lastOpenFiles": [
-    "building ontology.md",
+    "ontology/DUL_ontology.md",
     "온톨로지 목록.md",
+    "ontology/BOT.md",
+    "building ontology.md",
     "무제 폴더",
     "ontology/SSG.md",
     "ontology/SG_Ontology.md",
@@ -180,7 +181,6 @@
     "ontology/NewOSEIM.md",
     "ontology/PA_Ontology.md",
     "ontology/HTO.md",
-    "ontology/BOT.md",
     "ontology/REC4.md",
     "ontology/OEO.md",
     "ontology/SAREF.md",
@@ -193,7 +193,6 @@
     "ontology/Semantic_Sensor_Network_Ontology_(SSN).md",
     "ontology/PowerOnt.md",
     "ontology/SimModel.md",
-    "ontology/DUL_ontology.md",
     "ontology/DUL.md",
     "DUL.md",
     "ontology/WGS84_Geo_Positioning_Ontology.md",
