@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ontology/SG_BEMS.md",
+                "file": "ontology/Mirabel.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ontology/SG_BEMS.md",
+                "file": "ontology/Mirabel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ontology/SG_BEMS.md",
+                "file": "ontology/Mirabel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ontology/SG_BEMS.md"
+                "file": "ontology/Mirabel.md"
               }
             }
           },
@@ -157,6 +157,7 @@
   },
   "active": "f0415c2420118fc1",
   "lastOpenFiles": [
+    "ontology/SG_BEMS.md",
     "온톨로지 목록.md",
     "ontology/SG_Ontology.md",
     "ontology/SG-Ont.md",
@@ -170,7 +171,6 @@
     "ontology/PowerOnt.md",
     "ontology/SSG.md",
     "ontology/SimModel.md",
-    "ontology/SG_BEMS.md",
     "ontology/DUL_ontology.md",
     "ontology/DUL.md",
     "DUL.md",
