@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ontology/OpenADR.md",
+                "file": "ontology/DELTA.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ontology/OpenADR.md",
+                "file": "ontology/DELTA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ontology/OpenADR.md",
+                "file": "ontology/DELTA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ontology/OpenADR.md"
+                "file": "ontology/DELTA.md"
               }
             }
           },
@@ -157,6 +157,10 @@
   },
   "active": "f0415c2420118fc1",
   "lastOpenFiles": [
+    "ontology/DUL_ontology.md",
+    "ontology/Energy_Resource_Ontology.md",
+    "ontology/gbBuilding_Information_Ontology.md",
+    "ontology/OpenADR.md",
     "ontology/WGS84_Geo_Positioning_Ontology.md",
     "ontology/Weather_Ontology.md",
     "ontology/User_Behavior_and_Building_Process_Information.md",
@@ -173,16 +177,12 @@
     "ontology/PowerOnt.md",
     "ontology/PA Ontology.md",
     "ontology/OWL-Time_Ontology.md",
-    "ontology/OpenADR.md",
     "ontology/Ontology_of_units_of_Measure_(OM).md",
     "ontology/OEO.md",
     "ontology/NewOSEIM.md",
     "ontology/Mathematical_Modelling_Ontology.md",
     "ontology/ifcOWL.md",
     "ontology/HTO.md",
-    "ontology/gbBuilding_Information_Ontology.md",
-    "ontology/Energy_Resource_Ontology.md",
-    "ontology/DUL_ontology.md",
     "무제 폴더",
     "삭제파일",
     "삭제파일/dc",
