@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ontology/BOT.md",
+                "file": "온톨로지 목록.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ontology/BOT.md",
+                "file": "온톨로지 목록.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ontology/BOT.md",
+                "file": "온톨로지 목록.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ontology/BOT.md"
+                "file": "온톨로지 목록.md"
               }
             }
           },
@@ -157,6 +157,8 @@
   },
   "active": "f0415c2420118fc1",
   "lastOpenFiles": [
+    "ontology/Digitalbuildings.md",
+    "ontology/BOT.md",
     "온톨로지 목록.md",
     "ontology/Semantic_Sensor_Network_Ontology_(SSN).md",
     "ontology/PA_Ontology.md",
@@ -181,8 +183,6 @@
     "ontology/OpenADR.md",
     "ontology/Ontology_of_units_of_Measure_(OM).md",
     "ontology/OEO.md",
-    "ontology/NewOSEIM.md",
-    "ontology/Mirabel.md",
     "무제 폴더",
     "삭제파일",
     "삭제파일/dc",
