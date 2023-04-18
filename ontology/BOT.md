@@ -13,8 +13,6 @@
 | Language; Syntax             |  OWL; Turtle   |
 
 
----
-
 출처 :  A semantic ontology for representing and quantifying energy flexibility of buildings
 
 참고 : Rasmussen MH, Lefrançois M, Schneider GF, Pauwels P. BOT: the building topology ontology of the W3C linked building data group. Semant Web 2021;12:143– 161.
