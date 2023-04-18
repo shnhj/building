@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ontology/SARGON.md",
+                "file": "ontology/DUL_ontology.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ontology/SARGON.md",
+                "file": "ontology/DUL_ontology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ontology/SARGON.md",
+                "file": "ontology/DUL_ontology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ontology/SARGON.md"
+                "file": "ontology/DUL_ontology.md"
               }
             }
           },
@@ -157,6 +157,11 @@
   },
   "active": "f0415c2420118fc1",
   "lastOpenFiles": [
+    "온톨로지 목록.md",
+    "ontology/DUL_ontology.md",
+    "ontology/DUL.md",
+    "DUL.md",
+    "ontology/SARGON.md",
     "ontology/PowerOnt.md",
     "ontology/DELTA.md",
     "ontology/WGS84_Geo_Positioning_Ontology.md",
@@ -169,7 +174,6 @@
     "ontology/SG Ontology.md",
     "ontology/Semantic_Sensor_Network_Ontology_ (SSN).md",
     "ontology/schema.org.md",
-    "ontology/SARGON.md",
     "ontology/SAREF.md",
     "ontology/REC4.md",
     "ontology/PA Ontology.md",
@@ -179,10 +183,6 @@
     "ontology/OEO.md",
     "ontology/NewOSEIM.md",
     "ontology/Mirabel.md",
-    "ontology/Mathematical_Modelling_Ontology.md",
-    "ontology/ifcOWL.md",
-    "ontology/HTO.md",
-    "ontology/gbBuilding_Information_Ontology.md",
     "무제 폴더",
     "삭제파일",
     "삭제파일/dc",
