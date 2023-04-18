@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ontology/Mirabel.md",
+                "file": "온톨로지 목록.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ontology/Mirabel.md",
+                "file": "온톨로지 목록.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ontology/Mirabel.md",
+                "file": "온톨로지 목록.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ontology/Mirabel.md"
+                "file": "온톨로지 목록.md"
               }
             }
           },
@@ -157,16 +157,18 @@
   },
   "active": "f0415c2420118fc1",
   "lastOpenFiles": [
-    "ontology/SG_BEMS.md",
+    "ontology/OEO.md",
     "온톨로지 목록.md",
+    "ontology/HTO.md",
+    "ontology/BOT.md",
+    "ontology/Mirabel.md",
+    "ontology/SG_BEMS.md",
     "ontology/SG_Ontology.md",
     "ontology/SG-Ont.md",
     "ontology/DELTA.md",
     "ontology/NewOSEIM.md",
     "ontology/PA_Ontology.md",
-    "ontology/HTO.md",
     "ontology/Digitalbuildings.md",
-    "ontology/BOT.md",
     "ontology/Semantic_Sensor_Network_Ontology_(SSN).md",
     "ontology/PowerOnt.md",
     "ontology/SSG.md",
@@ -181,8 +183,6 @@
     "ontology/ThinkHome.md",
     "ontology/schema.org.md",
     "ontology/SAREF.md",
-    "ontology/REC4.md",
-    "ontology/OWL-Time_Ontology.md",
     "무제 폴더",
     "삭제파일",
     "삭제파일/dc",
