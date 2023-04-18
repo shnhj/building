@@ -1,5 +1,7 @@
 # SG Ontology
 
+&#45; 분산 및 이질적인 원천의 자동 통합 및 실시간 관리를 가능하게 하는 prosumer 지향 온톨로지
+
 | Name             | SARGON                                                                                                                                                                                                                                                       |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Domain           | Building-to-Grid Integration                                                                                                                                                                                                                                 |
@@ -9,4 +11,6 @@
 | applications     | Determine the most economical, reliable and environmentally friendly energy producer in a ceratin city; List feasible dates and times, which would be cost effective to operate a washing machine in certain premises by comparing past consumption patterns |
 | Language; Syntax | RDF;Turtle                                                                                                                                                                                                                                                   |
 
-출처 :  A semantic ontology for representing and quantifying energy flexibility of buildings
+출처 :  A semantic ontology for representing and quantifying energy flexibility of buildings.
+
+참고 : Gillani S, Laforest F, Picard G. A Generic Ontology for Prosumer-Oriented Smart Grid. EDBTICDT Workshop 2014;1133:134–9
