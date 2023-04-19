@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ontology/BONSAI.md",
+                "file": "온톨로지 목록.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ontology/BONSAI.md",
+                "file": "온톨로지 목록.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ontology/BONSAI.md",
+                "file": "온톨로지 목록.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ontology/BONSAI.md"
+                "file": "온톨로지 목록.md"
               }
             }
           },
@@ -169,10 +169,10 @@
   },
   "active": "f0415c2420118fc1",
   "lastOpenFiles": [
-    "온톨로지 목록.md",
-    "ontology/BONSAI.md",
-    "ontology/BEMS.md",
     "building ontology.md",
+    "ontology/BOnSAI.md",
+    "온톨로지 목록.md",
+    "ontology/BEMS.md",
     "ontology/schema.org.md",
     "ontology/WGS84_Geo_Positioning_Ontology.md",
     "ontology/DUL_ontology.md",
