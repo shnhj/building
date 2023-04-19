@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ontology/schema.org.md",
+                "file": "building ontology.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ontology/schema.org.md",
+                "file": "building ontology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ontology/schema.org.md",
+                "file": "building ontology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ontology/schema.org.md"
+                "file": "building ontology.md"
               }
             }
           },
@@ -170,8 +170,9 @@
   "active": "f0415c2420118fc1",
   "lastOpenFiles": [
     "온톨로지 목록.md",
-    "ontology/WGS84_Geo_Positioning_Ontology.md",
     "building ontology.md",
+    "ontology/schema.org.md",
+    "ontology/WGS84_Geo_Positioning_Ontology.md",
     "ontology/DUL_ontology.md",
     "ontology/BOT.md",
     "무제 폴더",
@@ -195,7 +196,6 @@
     "ontology/PowerOnt.md",
     "ontology/SimModel.md",
     "ontology/DUL.md",
-    "DUL.md",
     "삭제파일",
     "삭제파일/dc",
     "dc2",
