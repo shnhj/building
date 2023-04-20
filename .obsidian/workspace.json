@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ontology/Energy_Resource_Ontology.md",
+                "file": "building ontology.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ontology/Energy_Resource_Ontology.md",
+                "file": "building ontology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ontology/Energy_Resource_Ontology.md",
+                "file": "building ontology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ontology/Energy_Resource_Ontology.md"
+                "file": "building ontology.md"
               }
             }
           },
@@ -167,10 +167,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0297bef50f56ea98",
+  "active": "f0415c2420118fc1",
   "lastOpenFiles": [
-    "ontology/DUL_ontology.md",
+    "온톨로지 목록.md",
+    "building ontology.md",
     "ontology/Energy_Resource_Ontology.md",
+    "ontology/DUL_ontology.md",
     "ontology/Dublin_Core_ontology.md",
     "ontology/DogOnt.md",
     "ontology/Digitalbuildings.md",
@@ -179,8 +181,6 @@
     "ontology/BOT.md",
     "ontology/BEMS.md",
     "ontology/BOnSAI.md",
-    "온톨로지 목록.md",
-    "building ontology.md",
     "ontology/schema.org.md",
     "ontology/WGS84_Geo_Positioning_Ontology.md",
     "무제 폴더",
