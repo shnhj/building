@@ -14,3 +14,5 @@
 
 
 출처 :  A semantic ontology for representing and quantifying energy flexibility of buildings
+
+참고 : Fernández-Izquierdo A, Cimmino A, García-Castro R. Supporting Demand-Response strategies with the DELTA ontology. 18th International Conference on Computer Systems and Applications, 2021, p. 18. https://doi.org/10.1109/AICCSA53542.2021.9686935.
