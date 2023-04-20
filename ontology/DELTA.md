@@ -14,3 +14,5 @@
 
 
 출처 :  A semantic ontology for representing and quantifying energy flexibility of buildings
+
+참고 : https://www.delta-h2020.eu/deliverables/
