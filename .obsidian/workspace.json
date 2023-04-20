@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ontology/DELTA.md",
+                "file": "ontology/Energy_Resource_Ontology.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ontology/DELTA.md",
+                "file": "ontology/Energy_Resource_Ontology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ontology/DELTA.md",
+                "file": "ontology/Energy_Resource_Ontology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ontology/DELTA.md"
+                "file": "ontology/Energy_Resource_Ontology.md"
               }
             }
           },
@@ -167,8 +167,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f0415c2420118fc1",
+  "active": "0297bef50f56ea98",
   "lastOpenFiles": [
+    "ontology/DUL_ontology.md",
+    "ontology/Energy_Resource_Ontology.md",
+    "ontology/Dublin_Core_ontology.md",
+    "ontology/DogOnt.md",
+    "ontology/Digitalbuildings.md",
+    "ontology/DELTA.md",
     "ontology/Brick.md",
     "ontology/BOT.md",
     "ontology/BEMS.md",
@@ -177,12 +183,10 @@
     "building ontology.md",
     "ontology/schema.org.md",
     "ontology/WGS84_Geo_Positioning_Ontology.md",
-    "ontology/DUL_ontology.md",
     "무제 폴더",
     "ontology/SSG.md",
     "ontology/SG_Ontology.md",
     "ontology/OpenADR.md",
-    "ontology/DELTA.md",
     "ontology/NewOSEIM.md",
     "ontology/PA_Ontology.md",
     "ontology/HTO.md",
@@ -192,10 +196,6 @@
     "ontology/SG_BEMS.md",
     "ontology/SARGON.md",
     "ontology/Mirabel.md",
-    "ontology/SG-Ont.md",
-    "ontology/Digitalbuildings.md",
-    "ontology/Semantic_Sensor_Network_Ontology_(SSN).md",
-    "ontology/PowerOnt.md",
     "삭제파일",
     "삭제파일/dc",
     "dc2",
