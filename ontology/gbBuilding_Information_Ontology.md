@@ -21,3 +21,5 @@ https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/building/1_10/gbBuild
 	- Volume
 	- BuildingStorey
 	- Weather
+
+출처 : Enhancing energy management at district and building levels via an EM-KPI ontology
