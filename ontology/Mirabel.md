@@ -14,4 +14,4 @@
 
 출처 :  A semantic ontology for representing and quantifying energy flexibility of buildings
 
-참고 : Verhoosel JPC, Rothengatter DCF, Rumph FJ, Konsman MJ. An ontology for modeling flexibility in smart grid. energy management 2012.
+참고 : Verhoosel JPC, Rothengatter DCF, Rumph FJ, Konsman MJ. An ontology for modeling flexibility in smart grid energy management 2012.
