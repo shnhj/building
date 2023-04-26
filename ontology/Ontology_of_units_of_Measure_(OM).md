@@ -1,6 +1,6 @@
 # Ontology of units of Measure (OM)
 
-
+단위 및 양, 측정 및 차원에 중점을 둔 과학 연구에서 중요한 개념 및 관계를 모델리하는 단위 측정 체계
 
 ---
 ## Namespace
