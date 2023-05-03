@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ontology/OpenADR.md",
+                "file": "building ontology.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ontology/OpenADR.md",
+                "file": "building ontology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ontology/OpenADR.md",
+                "file": "building ontology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ontology/OpenADR.md"
+                "file": "building ontology.md"
               }
             }
           },
@@ -169,6 +169,7 @@
   },
   "active": "f0415c2420118fc1",
   "lastOpenFiles": [
+    "ontology/OpenADR.md",
     "ontology/Ontology_of_units_of_Measure_(OM).md",
     "ontology/OEO.md",
     "ontology/NewOSEIM.md",
@@ -195,7 +196,6 @@
     "ontology/WGS84_Geo_Positioning_Ontology.md",
     "무제 폴더",
     "ontology/SSG.md",
-    "ontology/SG_Ontology.md",
     "삭제파일",
     "삭제파일/dc",
     "dc2",
