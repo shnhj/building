@@ -14,3 +14,4 @@
 
 출처 :  A semantic ontology for representing and quantifying energy flexibility of buildings
 
+참고 : Bonino D, Corno F, De Russis L. PowerOnt: An Ontology-Based Approach for Power Consumption Estimation in Smart Homes. Internet Things User-Centric IoT, Cham: Springer International Publishing; 2015, p. 3–8.
