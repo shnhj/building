@@ -12,3 +12,5 @@
 | Language; Syntax | OWL; Turtle                                                                                                                                                                                                                                                                                                                                                         |
 
 출처 :  A semantic ontology for representing and quantifying energy flexibility of buildings
+
+참고 ： Schachinger D., Kastner W., Gaida S. Ontology-based abstraction layer for smart grid interaction in building energy management systems. 2016 IEEE International Energy Conference, 2016, p. 16. https://doi.org/10.1109/ ENERGYCON.2016.7513991.

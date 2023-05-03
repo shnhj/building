@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ontology/Semantic_Sensor_Network_Ontology_(SSN).md",
+                "file": "ontology/SG_BEMS.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ontology/Semantic_Sensor_Network_Ontology_(SSN).md",
+                "file": "ontology/SG_BEMS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ontology/Semantic_Sensor_Network_Ontology_(SSN).md",
+                "file": "ontology/SG_BEMS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ontology/Semantic_Sensor_Network_Ontology_(SSN).md"
+                "file": "ontology/SG_BEMS.md"
               }
             }
           },
@@ -169,6 +169,7 @@
   },
   "active": "f0415c2420118fc1",
   "lastOpenFiles": [
+    "ontology/Semantic_Sensor_Network_Ontology_(SSN).md",
     "ontology/schema.org.md",
     "ontology/SARGON.md",
     "ontology/SAREF.md",
@@ -194,7 +195,6 @@
     "ontology/Ontology_of_units_of_Measure_(OM).md",
     "ontology/OEO.md",
     "ontology/NewOSEIM.md",
-    "ontology/Mirabel.md",
     "무제 폴더",
     "삭제파일",
     "삭제파일/dc",
