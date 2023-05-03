@@ -1,4 +1,4 @@
-# SARGON(Smart Appliance Reference ontology for energy management)
+# SARGON(Smart energy domain ontology)
 
 &#45; 스마트 에너지 영역 온톨로지로 건물 내 스마트 자산의 시맨틱 기술 설명을 정의하기 위해 [SAREF](SAREF.md)를 재사용하며 건물 자동화 스마트 그리드 간 자산의 관계를 정의하기 위해 확장
 

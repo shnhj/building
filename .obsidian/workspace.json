@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ontology/REC4.md",
+                "file": "ontology/SARGON.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ontology/REC4.md",
+                "file": "ontology/SARGON.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ontology/REC4.md",
+                "file": "ontology/SARGON.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ontology/REC4.md"
+                "file": "ontology/SARGON.md"
               }
             }
           },
@@ -169,6 +169,9 @@
   },
   "active": "f0415c2420118fc1",
   "lastOpenFiles": [
+    "ontology/SAREF.md",
+    "ontology/SARGON.md",
+    "ontology/REC4.md",
     "ontology/PowerOnt.md",
     "ontology/OWL-Time_Ontology.md",
     "ontology/OpenADR.md",
@@ -192,9 +195,6 @@
     "ontology/NewOSEIM.md",
     "ontology/Mirabel.md",
     "ontology/Mathematical_Modelling_Ontology.md",
-    "ontology/HTO.md",
-    "ontology/REC4.md",
-    "ontology/schema.org.md",
     "무제 폴더",
     "삭제파일",
     "삭제파일/dc",
