@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ontology/SG_Ontology.md",
+                "file": "온톨로지 목록.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ontology/SG_Ontology.md",
+                "file": "온톨로지 목록.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ontology/SG_Ontology.md",
+                "file": "온톨로지 목록.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ontology/SG_Ontology.md"
+                "file": "온톨로지 목록.md"
               }
             }
           },
@@ -165,19 +165,20 @@
   },
   "active": "f0415c2420118fc1",
   "lastOpenFiles": [
+    "ontology/SARGON.md",
+    "ontology/SAREF.md",
+    "ontology/REC4.md",
+    "ontology/PowerOnt.md",
+    "ontology/PA_Ontology.md",
+    "ontology/OWL-Time_Ontology.md",
+    "ontology/OpenADR.md",
     "ontology/SG_BEMS.md",
+    "ontology/SG_Ontology.md",
     "ontology/BEMS.md",
     "building ontology.md",
     "온톨로지 목록.md",
     "ontology/Semantic_Sensor_Network_Ontology_(SSN).md",
     "ontology/schema.org.md",
-    "ontology/SARGON.md",
-    "ontology/SAREF.md",
-    "ontology/REC4.md",
-    "ontology/PowerOnt.md",
-    "ontology/OWL-Time_Ontology.md",
-    "ontology/OpenADR.md",
-    "ontology/PA_Ontology.md",
     "ontology/ifcOWL.md",
     "ontology/gbBuilding_Information_Ontology.md",
     "ontology/Energy_Resource_Ontology.md",
@@ -190,7 +191,6 @@
     "ontology/BOT.md",
     "ontology/BOnSAI.md",
     "ontology/Ontology_of_units_of_Measure_(OM).md",
-    "ontology/OEO.md",
     "무제 폴더",
     "삭제파일",
     "삭제파일/dc",
