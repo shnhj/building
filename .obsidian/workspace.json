@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ontology/SG_BEMS.md",
+                "file": "ontology/SG_Ontology.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ontology/SG_BEMS.md",
+                "file": "ontology/SG_Ontology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ontology/SG_BEMS.md",
+                "file": "ontology/SG_Ontology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ontology/SG_BEMS.md"
+                "file": "ontology/SG_Ontology.md"
               }
             }
           },
@@ -165,8 +165,8 @@
   },
   "active": "f0415c2420118fc1",
   "lastOpenFiles": [
-    "ontology/BEMS.md",
     "ontology/SG_BEMS.md",
+    "ontology/BEMS.md",
     "building ontology.md",
     "온톨로지 목록.md",
     "ontology/Semantic_Sensor_Network_Ontology_(SSN).md",
