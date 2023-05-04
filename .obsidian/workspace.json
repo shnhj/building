@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "building ontology.md",
+                "file": "ontology/SG_BEMS.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "building ontology.md",
+                "file": "ontology/SG_BEMS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "building ontology.md",
+                "file": "ontology/SG_BEMS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "building ontology.md"
+                "file": "ontology/SG_BEMS.md"
               }
             }
           },
@@ -165,7 +165,9 @@
   },
   "active": "f0415c2420118fc1",
   "lastOpenFiles": [
+    "ontology/BEMS.md",
     "ontology/SG_BEMS.md",
+    "building ontology.md",
     "온톨로지 목록.md",
     "ontology/Semantic_Sensor_Network_Ontology_(SSN).md",
     "ontology/schema.org.md",
@@ -176,7 +178,6 @@
     "ontology/OWL-Time_Ontology.md",
     "ontology/OpenADR.md",
     "ontology/PA_Ontology.md",
-    "building ontology.md",
     "ontology/ifcOWL.md",
     "ontology/gbBuilding_Information_Ontology.md",
     "ontology/Energy_Resource_Ontology.md",
@@ -188,7 +189,6 @@
     "ontology/Brick.md",
     "ontology/BOT.md",
     "ontology/BOnSAI.md",
-    "ontology/BEMS.md",
     "ontology/Ontology_of_units_of_Measure_(OM).md",
     "ontology/OEO.md",
     "무제 폴더",
