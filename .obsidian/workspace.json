@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "building ontology.md",
+                "file": "building ontology 요약본.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "building ontology.md",
+                "file": "building ontology 요약본.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "building ontology.md",
+                "file": "building ontology 요약본.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "building ontology.md"
+                "file": "building ontology 요약본.md"
               }
             }
           },
@@ -163,13 +163,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f0415c2420118fc1",
+  "active": "0297bef50f56ea98",
   "lastOpenFiles": [
     "온톨로지 목록.md",
     "ontology/BOnSAI.md",
     "ontology/BEMS.md",
     "ontology/ifcOWL.md",
-    "building ontology.md",
+    "building ontology 요약본.md",
     "ontology/WGS84_Geo_Positioning_Ontology.md",
     "ontology/Weather_Ontology.md",
     "ontology/User_Behavior_and_Building_Process_Information.md",
