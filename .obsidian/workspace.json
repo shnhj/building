@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ontology/WGS84_Geo_Positioning_Ontology.md",
+                "file": "building ontology.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ontology/WGS84_Geo_Positioning_Ontology.md",
+                "file": "building ontology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ontology/WGS84_Geo_Positioning_Ontology.md",
+                "file": "building ontology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ontology/WGS84_Geo_Positioning_Ontology.md"
+                "file": "building ontology.md"
               }
             }
           },
@@ -165,8 +165,13 @@
   },
   "active": "f0415c2420118fc1",
   "lastOpenFiles": [
-    "ontology/Weather_Ontology.md",
+    "온톨로지 목록.md",
+    "ontology/BOnSAI.md",
+    "ontology/BEMS.md",
+    "ontology/ifcOWL.md",
+    "building ontology.md",
     "ontology/WGS84_Geo_Positioning_Ontology.md",
+    "ontology/Weather_Ontology.md",
     "ontology/User_Behavior_and_Building_Process_Information.md",
     "ontology/ThinkHome.md",
     "ontology/SSG.md",
@@ -186,11 +191,6 @@
     "ontology/OEO.md",
     "ontology/NewOSEIM.md",
     "ontology/Mirabel.md",
-    "ontology/Mathematical_Modelling_Ontology.md",
-    "ontology/ifcOWL.md",
-    "ontology/HTO.md",
-    "ontology/gbBuilding_Information_Ontology.md",
-    "ontology/Energy_Resource_Ontology.md",
     "무제 폴더",
     "삭제파일",
     "삭제파일/dc",
