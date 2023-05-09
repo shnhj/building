@@ -13,3 +13,5 @@
 
 
 출처 :  A semantic ontology for representing and quantifying energy flexibility of buildings
+
+참고 : Salameh K, Chbeir R, Camblong H. SSG: An Ontology-Based Information Model for Smart Grids. In: Hameurlain A, Wagner R, Morvan F, Tamine L, editors. Transactions on Large-Scale Data- and Knowledge-Centered Systems XL, Berlin, Heidelberg: Springer; 2019, p. 94–124. https://doi.org/10.1007/978-3-662-58664-8_4.
