@@ -16,3 +16,5 @@ http://www.wurvoc.org/vocabularies/om-1.8/
 	- Compound_unit
 	- Singular_Unit
 	- Unit_multiplication
+
+출처 :  Enhancing energy management at district and building levels via an EM-KPI ontology

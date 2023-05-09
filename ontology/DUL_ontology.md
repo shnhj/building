@@ -15,3 +15,5 @@ http://www.ontologydesignpatterns.org/ont/dul/DUL.owl
 	- PhysicalObject
 	- hasLocation
 	- isLocationOf
+
+출처 :  Enhancing energy management at district and building levels via an EM-KPI ontology

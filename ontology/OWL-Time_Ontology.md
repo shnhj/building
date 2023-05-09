@@ -16,3 +16,5 @@ http://www.w3.org/2006/time#
 	- hasEnd
 	- hasBeginning
 	- Instant
+
+출처 :  Enhancing energy management at district and building levels via an EM-KPI ontology

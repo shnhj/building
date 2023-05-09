@@ -14,3 +14,6 @@ https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/ProcessOntology.owl
 - Enhancing energy management at district and building levels via an EM-KPI ontology
 	- OccupancyParameter
 	- hasInfluenceOn
+
+
+출처 :  Enhancing energy management at district and building levels via an EM-KPI ontology

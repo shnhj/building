@@ -18,3 +18,5 @@ http://purl.org/dc/terms/
 	- description
 	- type
 	- Location
+
+출처 :  Enhancing energy management at district and building levels via an EM-KPI ontology

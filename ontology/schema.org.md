@@ -14,3 +14,5 @@ http://schema.org/
 - Enhancing energy management at district and building levels via an EM-KPI ontology
 	- Event
 	- Postal Address
+
+출처 :  Enhancing energy management at district and building levels via an EM-KPI ontology
