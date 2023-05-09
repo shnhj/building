@@ -16,3 +16,5 @@ https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/WeatherOntology.owl
 	- WeatherPhenomenon
 	- Humidity
 	- SolarIrradiance
+
+출처 :  Enhancing energy management at district and building levels via an EM-KPI ontology

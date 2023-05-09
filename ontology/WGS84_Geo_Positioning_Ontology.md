@@ -16,3 +16,5 @@ http://www.w3.org/2003/01/geo/wgs84_pos#
 	- lat
 	- long
 	- alt
+
+출처 :  Enhancing energy management at district and building levels via an EM-KPI ontology
