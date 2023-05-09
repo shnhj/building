@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "building ontology 요약본.md",
+                "file": "building ontology 정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "building ontology 요약본.md",
+                "file": "building ontology 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "building ontology 요약본.md",
+                "file": "building ontology 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "building ontology 요약본.md"
+                "file": "building ontology 정리.md"
               }
             }
           },
@@ -169,7 +169,7 @@
     "ontology/BOnSAI.md",
     "ontology/BEMS.md",
     "ontology/ifcOWL.md",
-    "building ontology 요약본.md",
+    "building ontology 정리.md",
     "ontology/WGS84_Geo_Positioning_Ontology.md",
     "ontology/Weather_Ontology.md",
     "ontology/User_Behavior_and_Building_Process_Information.md",
