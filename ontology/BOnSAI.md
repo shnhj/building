@@ -1,7 +1,7 @@
 # BOnSAI (Smart Building Ontology for Ambient Intelligence)
 
-&#45; 스마트 빌딩에 주변 Ambient Intelligence(환경 지능)를 통합하기 위한 온톨로지 <br/>
-&#45;  건물 서비스, 하드웨어 자원, 사용자, 문맥과 관련된 기계 판독 가능한 지식 표현 제공
+&#45; 스마트 빌딩에서 Ambient Intelligence(환경 지능)를 가능하게 하는 온톨로지 <br/>
+&#45;  스마트 빌딩 내에서 모든 기능성, Qos, 하드웨어 등을 모델링하기 위한 개념
 
 | Name             | BONSAI               |
 | ---------------- | -------------------- |

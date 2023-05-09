@@ -1,6 +1,8 @@
 # User Behavior and Building Process Information
 
-건물 내 거주자에 대한 OccupancyParameter는 smart home system에서 나타나는 행동과 프로세스를 표현한 온톨로지
+&#45; Smart home 운영을 위한 응용 프로그램, 프로세스, 프로필 및 패턴을 나타내는 온톨로지<br/>
+&#45; 건물 시스템이나 설비의 작동 정보 수집<br/>
+&#45; 건물 내 거주자에 대한 OccupancyParameter는 smart home system에서 나타나는 행동과 프로세스를 표현한 온톨로지
 
 ---
 ## Namespace

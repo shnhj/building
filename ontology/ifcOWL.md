@@ -1,5 +1,6 @@
 # ifcOWL
-
+&#45; BIM 데이터 교환을 위한 형식적 언어인 IFC를 OWL형태로 표현<br/>
+&#45; IFC는 건축 정보 교환을 위한 공통 표준을 말함<br/>
 &#45; 건물 및 건설 데이터에 대한 IFC(Industry Foundation Classes)스키마를 나타내는 온톨로지
 
 | Name         |  ifcOWL   |

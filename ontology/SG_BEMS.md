@@ -1,5 +1,7 @@
 # SG BEMS(Smart Grid Building Energy Management System)
 
+&#45; BEMS에 대한 지식표현을 제공하기 위해 스마트 그리드 상호작용에 대한 모든 관련 개념을 통합하는 온톨로지<br/>
+&#45; 주변 smart grid의 동적 및 정적 특성 파악과 추론 기능을 사용하여 새로운 지식 추론<br/>
 &#45; 건물 에너지 관리 시스템과 스마트 그리드 간 상호작용에 대한 시맨틱 지식 통합
 
 | Name             | SG-BEMS                                                                                                                                                                                                                                                                                                                                                             |
