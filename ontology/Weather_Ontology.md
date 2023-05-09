@@ -18,3 +18,5 @@ https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/WeatherOntology.owl
 	- SolarIrradiance
 
 출처 :  Enhancing energy management at district and building levels via an EM-KPI ontology
+
+참고 : A Weather Ontology for Predictive Control in Smart Homes
