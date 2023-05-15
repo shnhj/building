@@ -7,6 +7,7 @@
 ---
 ## Namespace
 
+https://raw.githubusercontent.com/iot-ontologies/dogont/master/dogont.owl
 
 ---
 

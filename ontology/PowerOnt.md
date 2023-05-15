@@ -8,6 +8,7 @@
 ---
 ## Namespace
 
+http://elite.polito.it/ontologies/poweront.owl
 
 ---
 
