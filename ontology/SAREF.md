@@ -7,6 +7,7 @@
 ---
 ## Namespace
 
+https://saref.etsi.org/core/v3.1.1/
 
 ---
 
