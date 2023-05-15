@@ -7,6 +7,7 @@
 ---
 ## Namespace
 
+http://www.vcharpenay.link/hto/hto.xml
 
 ---
 
