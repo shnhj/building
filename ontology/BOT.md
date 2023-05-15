@@ -3,6 +3,11 @@
 &#45; 건물의 물리적 및 공간적 특성을 형식적으로 표현하는 온톨로지<br/>
 &#45; 층과 공간, 건물 요소, 3D모델 포함하여 건물의 위상에 대한 고수준 설명
 
+---
+## Namespace
+
+https://www.dco.domos-project.eu/#BuildingTopology
+
 | Name         |  BOT   |
 | ------------ | --- |
 | Domain       | Assets and Applications    |
