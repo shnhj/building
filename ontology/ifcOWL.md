@@ -7,6 +7,8 @@
 ## Namespace
 
 
+---
+
 | Name         |  ifcOWL   |
 | ------------ | --- |
 | Domain       | Modeling & Analysis    |
