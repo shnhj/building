@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ontology/BOnSAI.md",
+                "file": "ontology/PA_Ontology.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ontology/BOnSAI.md",
+                "file": "ontology/PA_Ontology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ontology/BOnSAI.md",
+                "file": "ontology/PA_Ontology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ontology/BOnSAI.md"
+                "file": "ontology/PA_Ontology.md"
               }
             }
           },
@@ -166,6 +166,8 @@
   "active": "f0415c2420118fc1",
   "lastOpenFiles": [
     "온톨로지 목록.md",
+    "ontology/Digitalbuildings.md",
+    "ontology/BOnSAI.md",
     "ontology/SAREF.md",
     "ontology/ThinkHome.md",
     "ontology/DogOnt.md",
@@ -188,8 +190,6 @@
     "ontology/OpenADR.md",
     "ontology/DELTA.md",
     "ontology/PA_Ontology.md",
-    "ontology/Digitalbuildings.md",
-    "ontology/BOnSAI.md",
     "ontology/DUL_ontology.md",
     "무제 폴더",
     "삭제파일",
