@@ -6,7 +6,7 @@
 ---
 ## Namespace
 
-
+https://pi.pauwel.be/evoc/ifc_W3ID/20151211/IFC4_ADD1/index.html
 ---
 
 | Name         |  ifcOWL   |

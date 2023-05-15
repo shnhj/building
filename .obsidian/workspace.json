@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ontology/REC4.md",
+                "file": "ontology/PowerOnt.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ontology/REC4.md",
+                "file": "ontology/PowerOnt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ontology/REC4.md",
+                "file": "ontology/PowerOnt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ontology/REC4.md"
+                "file": "ontology/PowerOnt.md"
               }
             }
           },
@@ -166,6 +166,10 @@
   "active": "f0415c2420118fc1",
   "lastOpenFiles": [
     "온톨로지 목록.md",
+    "ontology/SimModel.md",
+    "ontology/ifcOWL.md",
+    "ontology/OEO.md",
+    "ontology/REC4.md",
     "ontology/Brick.md",
     "ontology/HTO.md",
     "building ontology 정리.md",
@@ -186,10 +190,6 @@
     "ontology/ThinkHome.md",
     "ontology/DogOnt.md",
     "ontology/PowerOnt.md",
-    "ontology/SimModel.md",
-    "ontology/ifcOWL.md",
-    "ontology/OEO.md",
-    "ontology/REC4.md",
     "ontology/DUL_ontology.md",
     "무제 폴더",
     "삭제파일",
