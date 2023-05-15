@@ -18,4 +18,4 @@
 
 출처 :  A semantic ontology for representing and quantifying energy flexibility of buildings.
 
-참고 : Saba D, Sahli Y, Hadidi A. An ontology based energy management for smart home. Sustain Comput Inform Syst 2021;31:100591. doi:10.1016/j.suscom.2021.100591.
+참고 : rk C, Choudhary V, Hassan NU, Tushar W, Yuen C, Ng BKK, et al. An ontologybased framework for building energy management with IoT. Electronics (Basel) 2019;8:485. doi:10.3390/electronics8050485.
