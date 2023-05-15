@@ -4,6 +4,11 @@
 &#45; XML 마크업 언어를 사용하여 표현되며 IFC데이터 모델과 밀접하게 관련되어 있음<br/>
 &#45; 서로 다른 Building Energy Modeling(BEM) 툴과 데이터 스키마를 하나의 중앙 스키마로 가져오도록 제안되었으며 건물 시뮬레이션 도메인을 위한 상호 운용 가능한 XML 기반 데이터 모델 제공
 
+---
+## Namespace
+
+
+
 | Name         | SimModel    |
 | ------------ | --- |
 | Domain       | Modeling & Analysis    |

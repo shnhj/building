@@ -3,6 +3,10 @@
 &#45; IFC는 건축 정보 교환을 위한 공통 표준을 말함<br/>
 &#45; 건물 및 건설 데이터에 대한 IFC(Industry Foundation Classes)스키마를 나타내는 온톨로지
 
+---
+## Namespace
+
+
 | Name         |  ifcOWL   |
 | ------------ | --- |
 | Domain       | Modeling & Analysis    |
