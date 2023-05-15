@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ontology/HTO.md",
+                "file": "ontology/Brick.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ontology/HTO.md",
+                "file": "ontology/Brick.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ontology/HTO.md",
+                "file": "ontology/Brick.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ontology/HTO.md"
+                "file": "ontology/Brick.md"
               }
             }
           },
@@ -167,6 +167,7 @@
   "lastOpenFiles": [
     "온톨로지 목록.md",
     "building ontology 정리.md",
+    "ontology/HTO.md",
     "ontology/BEMS.md",
     "ontology/NewOSEIM.md",
     "ontology/Mirabel.md",
@@ -187,7 +188,6 @@
     "ontology/ifcOWL.md",
     "ontology/OEO.md",
     "ontology/REC4.md",
-    "ontology/HTO.md",
     "ontology/Brick.md",
     "ontology/BOT.md",
     "ontology/DUL_ontology.md",
