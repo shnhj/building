@@ -2,7 +2,7 @@
 | No | 온톨로지명                                                                                                        | 내용                                                                   |
 |----|--------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
 | 1  | [BEMS(Building Energy Management System)](ontology/BEMS.md)                                                  |  센서(유형,상태 등)와 에너지 관련 개념에 대한 온톨로지                 |
-| 2  | [BOnSAI (Smart Building Ontology for Ambient Intelligence)](ontology/BONSAI.md)                              | 스마트 빌딩에서 Ambient Intelligence(환경 지능)를 가능하게 하는 온톨로지                   |
+| 2  | [BOnSAI (Smart Building Ontology for Ambient Intelligence)](ontology/BOnSAI.md)                              | 스마트 빌딩에서 Ambient Intelligence(환경 지능)를 가능하게 하는 온톨로지                   |
 | 3  | [BOT(Building Topology Ontology)](ontology/BOT.md)                                                           | 건물의 물리적 및 공간적 특성을 형식적으로 표현하는 온톨로지                                    |
 | 4  | [Brick](ontology/Brick.md)                                                                                   | 건물을 나타내기 위한 메타데이터 스키마로 건물 내의 다양한 시스템과 관련된 센서들 간의 상호 관계를 설명하기 위한 온톨로지 |
 | 5  | [DELTA(Demand Response Energy-efficient building Technology Application)](ontology/DELTA.md)                 | 에너지 관리 시스템을 위한 온톨로지                                                  |
