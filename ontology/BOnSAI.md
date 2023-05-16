@@ -6,6 +6,7 @@
 ---
 ## Namespace
 
+http://lpis.csd.auth.gr/ontologies/bonsai/BOnSAI.owl
 
 ---
 
