@@ -8,6 +8,7 @@
 ---
 ## Namespace
 
+https://openenergy-platform.org/ontology/oeo
 
 ---
 
