@@ -8,6 +8,7 @@
 ---
 ## Namespace
 
+https://github.com/google/digitalbuildings/blob/master/ontology/rdf/digital_buildings.rdf
 
 ---
 
