@@ -7,6 +7,7 @@
 ---
 ## Namespace
 
+https://www.delta-h2020.eu/about-delta/delta-glossary/
 
 ---
 
