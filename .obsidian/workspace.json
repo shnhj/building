@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ontology/DELTA.md",
+                "file": "ontology/BEMS.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ontology/DELTA.md",
+                "file": "ontology/BEMS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ontology/DELTA.md",
+                "file": "ontology/BEMS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ontology/DELTA.md"
+                "file": "ontology/BEMS.md"
               }
             }
           },
@@ -165,9 +165,11 @@
   },
   "active": "f0415c2420118fc1",
   "lastOpenFiles": [
+    "온톨로지 목록.md",
+    "ontology/SG_Ontology.md",
+    "ontology/DELTA.md",
     "ontology/OEO.md",
     "ontology/Mathematical_Modelling_Ontology.md",
-    "온톨로지 목록.md",
     "ontology/OWL-Time_Ontology.md",
     "ontology/Ontology_of_units_of_Measure_(OM).md",
     "ontology/Semantic_Sensor_Network_Ontology_(SSN).md",
@@ -184,10 +186,8 @@
     "ontology/BOT.md",
     "ontology/BOnSAI.md",
     "ontology/Mirabel.md",
-    "ontology/SG_Ontology.md",
     "ontology/SARGON.md",
     "ontology/OpenADR.md",
-    "ontology/DELTA.md",
     "ontology/NewOSEIM.md",
     "ontology/PA_Ontology.md",
     "ontology/Digitalbuildings.md",
