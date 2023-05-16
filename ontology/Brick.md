@@ -6,6 +6,7 @@
 ---
 ## Namespace
 
+https://brickschema.org/ontology/1.3/#Relationships
 
 ---
 
