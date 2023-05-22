@@ -1,8 +1,8 @@
 ## building ontology 정리
 | No | 온톨로지명                                                                                                        | 내용                                                                   |
 |----|--------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
-| 1  | [BEMS(Building Energy Management System)](ontology/BEMS.md)                                                  |  센서(유형,상태 등)와 에너지 관련 개념에 대한 온톨로지                 |
-| 2  | [BOnSAI (Smart Building Ontology for Ambient Intelligence)](ontology/BOnSAI.md)                              | 스마트 빌딩에서 Ambient Intelligence(환경 지능)를 가능하게 하는 온톨로지                   |
+| 1  | [BEMS(Building Energy Management System)](ontology/BEMS.md)                                                  | 센서(유형,상태 등)와 에너지 관련 개념에 대한 온톨로지                                      |
+| 2  | [BOnSAI (Smart Building Ontology for Ambient Intelligence)](ontology/BONSAI.md)                              | 스마트 빌딩에서 Ambient Intelligence(환경 지능)를 가능하게 하는 온톨로지                   |
 | 3  | [BOT(Building Topology Ontology)](ontology/BOT.md)                                                           | 건물의 물리적 및 공간적 특성을 형식적으로 표현하는 온톨로지                                    |
 | 4  | [Brick](ontology/Brick.md)                                                                                   | 건물을 나타내기 위한 메타데이터 스키마로 건물 내의 다양한 시스템과 관련된 센서들 간의 상호 관계를 설명하기 위한 온톨로지 |
 | 5  | [DELTA(Demand Response Energy-efficient building Technology Application)](ontology/DELTA.md)                 | 에너지 관리 시스템을 위한 온톨로지                                                  |
@@ -16,7 +16,7 @@
 | 13 | [ifcOWL](ontology/ifcOWL.md)                                                                                 | BIM 데이터 교환을 위한 형식적 언어인 IFC를 OWL형태로 표현                                |
 | 14 | [Mathematical Modelling Ontology](ontology/Mathematical_Modelling_Ontology.md)                               | 수학적 모델링과 관련된 지식을 표현하는데 사용되는 온톨로지                                     |
 | 15 | [Mirabel](ontology/Mirabel.md)                                                                               | 사용자 선호도에 대한 에너지 유연성을 기기별로 금액,시기 등을 표현할 수 있는 온톨로지                     |
-| 16 | [NewOSEIM(New Open System for Energy Information Modeling)](ontology/NewOSEIM.md)                            | OWL 및 SWRL(Semantic Web Rule Language)의 지식 기반                        |
+| 16 | [NewOSEIM(New Ontological Solution for Energy Intelligent Management)](ontology/NewOSEIM.md)                 | OWL 및 SWRL(Semantic Web Rule Language)의 지식 기반                        |
 | 17 | [OEO(Open Energy Ontology)](ontology/OEO.md)                                                                 | 에너지 시스템 분석 영역에 대한 도메인 및 다양한 모델링 접근 방식에서 사용되는 지식 및 어휘에 대한 공통 설명 제공    |
 | 18 | [OM(Ontology of units of Measure)](ontology/Ontology_of_units_of_Measure_(OM).md)                            | 과학 연구에서 중요한 개념 및 관계를 모델링함                                            |
 | 19 | [OpenADR(Open Automated Demand Response)](ontology/OpenADR.md)                                               | 메타데이터 보고서 및 데이터 보고서와 같은 이 서비스와 관련된 여러 클래스 정의                         |
@@ -36,6 +36,7 @@
 | 33 | [User Behavior and Building Process Information](ontology/User_Behavior_and_Building_Process_Information.md) | Smart home 운영을 위한 응용 프로그램, 프로세스, 프로필 및 패턴을 나타내는 온톨로지                 |
 | 34 | [Weather Ontology](ontology/Weather_Ontology.md)                                                             | 현재 상황과 날씨 예보에 대한 데이터를 포함하는 날씨 정보를 위한 OWL온톨로지                         |
 | 35 | [WGS84 Geo Positioning Ontology](ontology/WGS84_Geo_Positioning_Ontology.md)                                 | WGS84 지리 측량 기준에 따라 위도, 경도 및 고도 정보를 나타내는 어휘집                          |
+
 
 
 

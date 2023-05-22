@@ -1,4 +1,4 @@
-# NewOSEIM(New Open System for Energy Information Modeling)
+# NewOSEIM(New Ontological Solution for Energy Intelligent Management)
 
 &#45; OWL 및 SWRL(Semantic Web Rule Language)의 지식 기반<br/>
 &#45; BMS 보완하는 역할로 가전제품의 비규칙적인 사용 문제 해결<br/>
