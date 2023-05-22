@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ontology/NewOSEIM.md",
+                "file": "building ontology 정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ontology/NewOSEIM.md",
+                "file": "building ontology 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ontology/NewOSEIM.md",
+                "file": "building ontology 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ontology/NewOSEIM.md"
+                "file": "building ontology 정리.md"
               }
             }
           },
@@ -165,6 +165,7 @@
   },
   "active": "f0415c2420118fc1",
   "lastOpenFiles": [
+    "온톨로지 목록.md",
     "building ontology 정리.md",
     "ontology/NewOSEIM.md",
     "ontology/gbBuilding_Information_Ontology.md",
@@ -174,7 +175,6 @@
     "ontology/Mirabel.md",
     "ontology/BOnSAI.md",
     "ontology/BEMS.md",
-    "온톨로지 목록.md",
     "ontology/SG_Ontology.md",
     "ontology/DELTA.md",
     "ontology/OEO.md",
