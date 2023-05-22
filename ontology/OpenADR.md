@@ -7,6 +7,7 @@
 ---
 ## Namespace
 
+https://openadr.memberclicks.net/specification
 
 ---
 
