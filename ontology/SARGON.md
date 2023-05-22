@@ -7,6 +7,7 @@
 ---
 ## Namespace
 
+https://sargon-n5geh.netlify.app/ontology/1.0
 
 ---
 
