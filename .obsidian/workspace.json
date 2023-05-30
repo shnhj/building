@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "3e15961466a43edf",
+            "id": "8dc09f542e340fc5",
             "type": "leaf",
             "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.3.3"
+                "currentVersion": "1.3.4"
               }
             }
           }
@@ -175,6 +175,7 @@
   },
   "active": "f0415c2420118fc1",
   "lastOpenFiles": [
+    "ontology/SSG.md",
     "ontology/ThinkHome.md",
     "building ontology 정리.md",
     "온톨로지 목록.md",
@@ -200,7 +201,6 @@
     "ontology/Energy_Resource_Ontology.md",
     "ontology/schema.org.md",
     "ontology/WGS84_Geo_Positioning_Ontology.md",
-    "ontology/Dublin_Core_ontology.md",
     "무제 폴더",
     "삭제파일",
     "삭제파일/dc",
